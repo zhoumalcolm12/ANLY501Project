@@ -1,0 +1,320 @@
+       support                                           itemsets  length
+5787  0.002070          (American Airlines, False, C, A319, KMCO)       5
+5938  0.002070           (KLAX, E, Southwest Airlines, Sat, B737)       5
+5935  0.002070                        (E, KSMF, False, Sat, B737)       5
+5934  0.002070         (E, False, Southwest Airlines, KSFO, B737)       5
+5928  0.002070         (E, KMEM, False, Southwest Airlines, B737)       5
+5927  0.002070         (E, KMDW, False, Southwest Airlines, B737)       5
+5926  0.002070                        (E, KMDW, False, Sat, B737)       5
+5925  0.002070         (KLAX, E, False, Southwest Airlines, B737)       5
+5924  0.002070                        (KLAX, E, False, Sat, B737)       5
+5922  0.002070          (D, Sun, False, Southwest Airlines, B737)       5
+5939  0.002070           (E, KMDW, Southwest Airlines, Sat, B737)       5
+5914  0.002070          (E145, KMDT, B, False, Piedmont Airlines)       5
+5911  0.002070                      (unkown, BE9L, B, Mon, False)       5
+5895  0.002070          (E, American Airlines, KDEN, False, B738)       5
+5893  0.002070           (D, Wed, American Airlines, False, B738)       5
+5885  0.002070          (D, American Airlines, False, KCLT, B738)       5
+5872  0.002070         (E, A343, Lufthansa CityLine, False, EDDF)       5
+5862  0.002070             (Thu, A321, E, Delta Air Lines, False)       5
+5860  0.002070             (A321, E, Delta Air Lines, False, Fri)       5
+5859  0.002070           (A321, E, Wed, American Airlines, False)       5
+5840  0.002070            (KLAX, E, False, A320, Spirit Airlines)       5
+5912  0.002070                      (Sun, unkown, BE9L, B, False)       5
+5839  0.002070                        (Thu, E, False, KJFK, A320)       5
+5944  0.002070       (KDEN, False, Southwest Airlines, Sat, B737)       5
+5951  0.002070       (KSMF, False, Southwest Airlines, Sat, B737)       5
+6098  0.002070          (E, KDAL, False, Southwest Airlines, Sat)       5
+6096  0.002070             (E, KORD, False, Fri, United Airlines)       5
+6094  0.002070             (Thu, E, E190, JetBlue Airways, False)       5
+6087  0.002070             (E, Delta Air Lines, False, KJFK, Fri)       5
+6084  0.002070                 (D, KGPI, Horizon Air, True, E75L)       5
+6083  0.002070            (D, Wed, False, E75L, SkyWest Airlines)       5
+6059  0.002070             (D, E190, JetBlue Airways, False, Fri)       5
+6051  0.002070                   (D, Mon, False, Envoy Air, E135)       5
+6037  0.002070           (E, CRJ7, False, SkyWest Airlines, KIAH)       5
+6104  0.002070          (E, False, KPDX, Southwest Airlines, Sat)       5
+6036  0.002070               (PSA Airlines, E, False, KDAY, CRJ7)       5
+6019  0.002070                (D, PSA Airlines, CRJ2, False, Fri)       5
+6002  0.002070                (PSA Airlines, CRJ2, False, Sat, C)       5
+5993  0.002070             (Sun, E, Delta Air Lines, B763, False)       5
+5992  0.002070             (E, Delta Air Lines, Mon, B763, False)       5
+5987  0.002070             (E, Delta Air Lines, B752, Mon, False)       5
+5986  0.002070            (E, Delta Air Lines, B752, False, KSEA)       5
+5983  0.002070             (B739, Sun, E, False, United Airlines)       5
+5974  0.002070            (B739, E, Delta Air Lines, False, KMSP)       5
+5961  0.002070                        (E, False, KSEA, Sat, B738)       5
+6023  0.002070               (D, PSA Airlines, CRJ2, False, KDAY)       5
+5837  0.002070            (E, KDEN, False, A320, United Airlines)       5
+5946  0.002070       (KLAX, False, Southwest Airlines, Sat, B737)       5
+5795  0.002070           (Sun, E, American Airlines, False, A319)       5
+5790  0.002070           (D, American Airlines, False, Sat, A319)       5
+5815  0.002070             (E, Delta Air Lines, False, A320, Fri)       5
+5817  0.002070            (E, Delta Air Lines, KBOS, False, A320)       5
+5820  0.002070             (Thu, E, Delta Air Lines, False, A320)       5
+5788  0.002070          (D, American Airlines, False, KMKE, A319)       5
+5810  0.002070            (KFLL, D, False, A320, Spirit Airlines)       5
+5801  0.002070            (E, KLAS, False, A319, United Airlines)       5
+5794  0.002070           (E, American Airlines, False, Sat, A319)       5
+5802  0.002070                 (E, Air Canada, False, CYYZ, A320)       5
+5822  0.002070             (E, False, A320, Fri, Spirit Airlines)       5
+5811  0.002329            (D, False, KSEA, A320, Spirit Airlines)       5
+6044  0.002329           (E, Compass Airlines, CYYC, False, E75S)       5
+5933  0.002329         (E, False, Southwest Airlines, KSAN, B737)       5
+5932  0.002329                        (E, False, Sat, KSAN, B737)       5
+6046  0.002329                   (D, False, Envoy Air, E135, Fri)       5
+6053  0.002329                   (D, Sun, False, Envoy Air, E135)       5
+5907  0.002329          (E, American Airlines, B763, LEMD, False)       5
+5941  0.002329           (E, Southwest Airlines, Sat, KSAN, B737)       5
+6001  0.002329               (PSA Airlines, KORF, CRJ2, False, C)       5
+5823  0.002329             (E, False, A320, Fri, United Airlines)       5
+6052  0.002329                   (D, Sat, False, Envoy Air, E135)       5
+5819  0.002329             (E, Delta Air Lines, False, A320, Sat)       5
+6105  0.002329          (E, False, Southwest Airlines, Sat, KSAN)       5
+5797  0.002329  (E, Transportes Aéreos I. R. Crusoe, False, CY...       5
+6062  0.002329            (D, False, E75L, SkyWest Airlines, Fri)       5
+6003  0.002329                (CYVR, Horizon Air, False, DH8D, C)       5
+5991  0.002329             (E, Delta Air Lines, B763, False, Fri)       5
+5988  0.002329            (E, PHLI, Delta Air Lines, B752, False)       5
+6008  0.002329                (Horizon Air, False, KSEA, DH8D, C)       5
+6010  0.002329                 (Horizon Air, False, Sat, DH8D, C)       5
+5805  0.002329          (E, KATL, American Airlines, False, A320)       5
+6012  0.002329                 (Thu, Horizon Air, False, DH8D, C)       5
+6038  0.002329                     (D, unkown, False, KJFK, CRJ9)       5
+6017  0.002329           (KLAX, False, E75L, SkyWest Airlines, C)       5
+6022  0.002329               (D, PSA Airlines, CRJ2, False, KCAK)       5
+5962  0.002329            (E, False, KSFO, B738, United Airlines)       5
+6032  0.002329            (D, False, Sat, SkyWest Airlines, CRJ7)       5
+5958  0.002329             (E, Delta Air Lines, Wed, False, B738)       5
+5956  0.002329             (E, Delta Air Lines, Mon, False, B738)       5
+5955  0.002329            (E, Delta Air Lines, KSLC, False, B738)       5
+6033  0.002329            (D, Sun, False, SkyWest Airlines, CRJ7)       5
+6021  0.002329               (D, PSA Airlines, KBTR, CRJ2, False)       5
+5896  0.002329          (E, American Airlines, KDFW, False, B738)       5
+5918  0.002329            (E, Delta Air Lines, False, KJFK, B712)       5
+5800  0.002329            (E, Delta Air Lines, False, A319, KMIA)       5
+5789  0.002329           (D, American Airlines, Mon, False, A319)       5
+6092  0.002329          (E, KORD, E170, False, Republic Airlines)       5
+6091  0.002329          (KIND, E, E170, False, Republic Airlines)       5
+6088  0.002329             (E, Delta Air Lines, Mon, False, KJFK)       5
+5849  0.002329           (D, A321, American Airlines, False, Sat)       5
+5791  0.002329           (E, A319, American Airlines, False, Fri)       5
+6085  0.002329          (D, KSTL, False, E75S, Republic Airlines)       5
+5848  0.002329           (D, A321, American Airlines, Mon, False)       5
+5847  0.002329          (KLAX, D, A321, American Airlines, False)       5
+6082  0.002329            (Thu, D, False, E75L, SkyWest Airlines)       5
+5843  0.002329             (Sun, E, False, A320, Spirit Airlines)       5
+5842  0.002329             (E, False, A320, Sat, Spirit Airlines)       5
+5853  0.002329          (A321, E, American Airlines, False, KMCO)       5
+6100  0.002587          (KLAX, E, False, Southwest Airlines, Sat)       5
+5887  0.002587          (D, KORD, American Airlines, False, B738)       5
+6025  0.002587               (D, PSA Airlines, CRJ2, False, KJAN)       5
+5963  0.002587            (E, KSJC, False, B738, United Airlines)       5
+6004  0.002587                 (Horizon Air, False, DH8D, C, Fri)       5
+6103  0.002587             (Thu, E, KORD, False, United Airlines)       5
+5863  0.002587                 (E, LYBE, False, A332, Air Serbia)       5
+5884  0.002587          (D, American Airlines, KBOS, False, B738)       5
+6031  0.002587            (D, Mon, False, SkyWest Airlines, CRJ7)       5
+6041  0.002587                     (E, unkown, KRDU, False, CRJ9)       5
+5937  0.002587          (Sun, E, False, Southwest Airlines, B737)       5
+5812  0.002587             (D, Mon, False, A320, Spirit Airlines)       5
+6097  0.002587          (E, KBWI, False, Southwest Airlines, Sat)       5
+5888  0.002587          (D, American Airlines, False, KPHL, B738)       5
+6040  0.002587                     (E, unkown, False, CRJ9, KCLT)       5
+5942  0.002587       (KBWI, False, Southwest Airlines, Sat, B737)       5
+6039  0.002587               (D, PSA Airlines, False, KMKE, CRJ9)       5
+6079  0.002587            (D, Mon, False, E75L, SkyWest Airlines)       5
+6000  0.002587           (CRJ2, False, KCOS, SkyWest Airlines, C)       5
+5809  0.002587            (D, KBOS, False, A320, Spirit Airlines)       5
+5796  0.002587           (Thu, E, American Airlines, False, A319)       5
+5881  0.002587      (E, False, KSFO, Alaska Airlines, Inc., B738)       5
+5957  0.002587             (E, Delta Air Lines, False, Sat, B738)       5
+5950  0.002587       (False, Southwest Airlines, Sat, KSAN, B737)       5
+5808  0.002587            (D, JetBlue Airways, KBOS, False, A320)       5
+6035  0.002587               (PSA Airlines, KCVG, E, False, CRJ7)       5
+6034  0.002587                  (E, KCMH, False, Envoy Air, CRJ7)       5
+5879  0.002587      (E, KSMF, False, Alaska Airlines, Inc., B737)       5
+6101  0.002587          (E, KMDW, False, Southwest Airlines, Sat)       5
+5867  0.002587            (E, Delta Air Lines, EGLL, False, A332)       5
+5846  0.002587             (Thu, E, False, A320, United Airlines)       5
+6081  0.002587            (D, Sun, False, E75L, SkyWest Airlines)       5
+6066  0.002587              (D, False, E75L, Mesa Airlines, KOKC)       5
+6009  0.002587                 (Mon, Horizon Air, False, DH8D, C)       5
+5877  0.002587              (D, KGSO, Air Wisconsin, CRJ2, False)       5
+5876  0.002587               (D, Air Georgian, CRJ2, False, CYYZ)       5
+6011  0.002587                 (Sun, Horizon Air, False, DH8D, C)       5
+5982  0.002587             (B739, E, False, Sat, United Airlines)       5
+6005  0.002587                (Horizon Air, False, KBIL, DH8D, C)       5
+5981  0.002587            (B739, E, False, KSFO, United Airlines)       5
+5845  0.002587             (Sun, E, False, A320, United Airlines)       5
+5874  0.002587                 (E, B752, EINN, False, Aer Lingus)       5
+6054  0.002587                   (Thu, D, False, Envoy Air, E135)       5
+5913  0.002587           (B, KSBN, CRJ2, False, SkyWest Airlines)       5
+5806  0.002587            (KIAD, False, A320, C, United Airlines)       5
+5792  0.002587          (E, American Airlines, KDCA, False, A319)       5
+5873  0.002587              (A359, E, OTHH, False, Qatar Airways)       5
+6016  0.002587            (E190, JetBlue Airways, False, KJFK, C)       5
+6095  0.002587          (E, False, E75S, Republic Airlines, KMSP)       5
+5917  0.002587            (KFLL, E, Delta Air Lines, False, B712)       5
+6015  0.002587          (E170, KEWR, False, Republic Airlines, C)       5
+6014  0.002587      (E145, KDEN, Trans States Airlines, False, C)       5
+5979  0.002846             (Thu, B739, E, Delta Air Lines, False)       5
+5966  0.002846            (PHOG, E, False, B738, United Airlines)       5
+5997  0.002846              (E, OTHH, B77L, False, Qatar Airways)       5
+5831  0.002846            (E, JetBlue Airways, False, SEQM, A320)       5
+5989  0.002846            (E, Delta Air Lines, False, B753, KSEA)       5
+5975  0.002846            (B739, E, Delta Air Lines, False, KPDX)       5
+6029  0.002846              (D, KIAD, False, Mesa Airlines, CRJ7)       5
+6007  0.002846                (Horizon Air, False, KRDM, DH8D, C)       5
+5995  0.002846            (E, B772, False, EIDW, United Airlines)       5
+6006  0.002846                (KMSO, Horizon Air, False, DH8D, C)       5
+5880  0.002846      (E, False, KSEA, Alaska Airlines, Inc., B738)       5
+5949  0.002846       (KPHX, False, Southwest Airlines, Sat, B737)       5
+5871  0.002846                  (Lufthansa, E, A343, False, EDDF)       5
+5915  0.002846            (D, Delta Air Lines, KDEN, False, B712)       5
+5852  0.002846          (A321, E, American Airlines, KEWR, False)       5
+5910  0.002846                  (E, Atlas Air, B763, False, KSCK)       5
+5906  0.002846          (E, American Airlines, B763, False, KJFK)       5
+6057  0.002846                  (D, KAMA, E170, False, Envoy Air)       5
+5793  0.002846          (E, American Airlines, False, KJAC, A319)       5
+5902  0.002846           (Sun, E, American Airlines, False, B738)       5
+5824  0.002846            (E, JetBlue Airways, False, A320, KBDL)       5
+6067  0.002846           (D, False, E75L, SkyWest Airlines, KOKC)       5
+6071  0.002846              (D, False, E75L, Mesa Airlines, KTUL)       5
+6074  0.002846              (D, MMQT, False, E75L, Mesa Airlines)       5
+5826  0.002846            (E, JetBlue Airways, False, A320, KLGB)       5
+5882  0.002846          (E, American Airlines, B38M, False, SEQM)       5
+5899  0.002846          (E, American Airlines, False, MDSD, B738)       5
+5920  0.002846         (D, KLAS, False, Southwest Airlines, B737)       5
+5827  0.002846            (E, KPIT, JetBlue Airways, False, A320)       5
+5868  0.002846          (A333, E, American Airlines, EGLL, False)       5
+6093  0.002846            (E, KHPN, E190, JetBlue Airways, False)       5
+5829  0.002846            (KTPA, E, JetBlue Airways, False, A320)       5
+6089  0.002846             (Sun, E, Delta Air Lines, False, KJFK)       5
+6047  0.002846                  (D, KRDU, False, Envoy Air, E135)       5
+6086  0.002846          (D, KLAS, False, Southwest Airlines, Sat)       5
+5816  0.002846            (E, Delta Air Lines, KAUS, False, A320)       5
+6090  0.002846             (Thu, E, Delta Air Lines, False, KJFK)       5
+6049  0.002846                  (D, False, Envoy Air, E135, MMCU)       5
+5923  0.002846           (D, KLAS, Southwest Airlines, Sat, B737)       5
+6024  0.003105           (D, CRJ2, False, KFAT, SkyWest Airlines)       5
+6018  0.003105          (False, KHXD, E75S, Republic Airlines, C)       5
+6020  0.003105           (D, KBOI, CRJ2, False, SkyWest Airlines)       5
+6078  0.003105               (Thu, D, False, E75L, Mesa Airlines)       5
+6043  0.003105      (D, Sky Regional Airlines, False, E75S, CYUL)       5
+6073  0.003105              (D, MMMY, False, E75L, Mesa Airlines)       5
+6072  0.003105              (D, False, E75L, Mesa Airlines, MMGL)       5
+6102  0.003105          (KOAK, E, False, Southwest Airlines, Sat)       5
+6070  0.003105           (D, KSJC, False, E75L, SkyWest Airlines)       5
+6045  0.003105      (D, Sky Regional Airlines, False, CYYZ, E75S)       5
+6065  0.003105           (KLAX, D, False, E75L, SkyWest Airlines)       5
+6050  0.003105                  (D, MMTC, False, Envoy Air, E135)       5
+6099  0.003105          (E, KDEN, False, Southwest Airlines, Sat)       5
+6063  0.003105           (D, KBOI, False, E75L, SkyWest Airlines)       5
+6026  0.003105            (D, CRJ2, False, Sat, SkyWest Airlines)       5
+6058  0.003105                  (D, E170, False, KMSY, Envoy Air)       5
+6056  0.003105                  (D, E145, KGSO, False, Envoy Air)       5
+6027  0.003105             (GoJet Airlines, D, KORD, False, CRJ7)       5
+5970  0.003105             (Thu, E, False, B738, United Airlines)       5
+5998  0.003105    (E, B77W, False, RJTT, Japan Airlines Domestic)       5
+5952  0.003105            (D, False, KFSD, B738, United Airlines)       5
+5948  0.003105       (KOAK, False, Southwest Airlines, Sat, B737)       5
+5943  0.003105       (KDAL, False, Southwest Airlines, Sat, B737)       5
+5940  0.003105           (KOAK, E, Southwest Airlines, Sat, B737)       5
+5813  0.003105             (D, False, A320, Sat, Spirit Airlines)       5
+5930  0.003105         (KOAK, E, False, Southwest Airlines, B737)       5
+5929  0.003105                        (KOAK, E, False, Sat, B737)       5
+5919  0.003105                        (D, KLAS, False, Sat, B737)       5
+5999  0.003105            (E, EGLL, False, B788, United Airlines)       5
+5908  0.003105          (E, SEGU, American Airlines, B763, False)       5
+5905  0.003105          (E, EGPF, American Airlines, B752, False)       5
+5903  0.003105           (Thu, E, American Airlines, False, B738)       5
+5889  0.003105           (D, American Airlines, Mon, False, B738)       5
+5878  0.003105      (E, False, KSEA, Alaska Airlines, Inc., B737)       5
+5875  0.003105         (D, Aeroméxico Connect, E190, MMMX, False)       5
+5870  0.003105                  (A333, Lufthansa, E, EDDM, False)       5
+5869  0.003105          (LIRF, A333, E, American Airlines, False)       5
+5865  0.003105          (E, American Airlines, LEMD, False, A332)       5
+5864  0.003105          (E, American Airlines, False, A332, LEBL)       5
+5841  0.003105            (E, KORD, False, A320, United Airlines)       5
+5836  0.003105            (E, KBWI, False, A320, Spirit Airlines)       5
+5960  0.003105            (E, KCLE, False, B738, United Airlines)       5
+5807  0.003105            (E, CYYC, False, A320, United Airlines)       5
+5909  0.003105          (E, American Airlines, B772, LEMD, False)       5
+5964  0.003105            (E, False, MROC, B738, United Airlines)       5
+5994  0.003105            (EDDM, E, B772, False, United Airlines)       5
+5980  0.003105            (B739, KFLL, E, False, United Airlines)       5
+5996  0.003105            (E, B772, False, LEBL, United Airlines)       5
+5978  0.003105             (B739, Sun, E, Delta Air Lines, False)       5
+6080  0.003364            (D, False, E75L, Sat, SkyWest Airlines)       5
+6061  0.003364               (D, False, E75L, Mesa Airlines, Fri)       5
+6075  0.003364               (D, Mon, False, E75L, Mesa Airlines)       5
+5892  0.003364           (Thu, D, American Airlines, False, B738)       5
+5985  0.003364            (KLAX, E, Delta Air Lines, B752, False)       5
+6013  0.003364                 (E145, KEWR, False, ExpressJet, C)       5
+5804  0.003364          (D, American Airlines, KRDU, False, A320)       5
+6055  0.003364                  (D, E145, KAVP, False, Envoy Air)       5
+5866  0.003364                    (SKBO, E, Avianca, False, A332)       5
+5828  0.003364            (E, JetBlue Airways, False, A320, KSFO)       5
+6077  0.003364               (D, Sun, False, E75L, Mesa Airlines)       5
+6048  0.003364                  (D, KSGF, False, Envoy Air, E135)       5
+5818  0.003364            (E, Delta Air Lines, False, KJFK, A320)       5
+6069  0.003364           (D, False, KRNO, E75L, SkyWest Airlines)       5
+5854  0.003364          (A321, E, KORD, American Airlines, False)       5
+5814  0.003364             (D, Sun, False, A320, Spirit Airlines)       5
+6030  0.003364           (D, KORD, False, SkyWest Airlines, CRJ7)       5
+5965  0.003364             (E, Mon, False, B738, United Airlines)       5
+5851  0.003364          (A321, E, American Airlines, False, KCLT)       5
+5959  0.003364             (Fri, E, False, B738, United Airlines)       5
+5844  0.003364             (Thu, E, False, A320, Spirit Airlines)       5
+5838  0.003364            (KFLL, E, False, A320, Spirit Airlines)       5
+6076  0.003622               (D, False, E75L, Sat, Mesa Airlines)       5
+5883  0.003622           (Fri, D, American Airlines, False, B738)       5
+5832  0.003622             (E, JetBlue Airways, False, A320, Sat)       5
+5968  0.003622             (E, False, Sat, B738, United Airlines)       5
+5945  0.003622       (KLAS, False, Southwest Airlines, Sat, B737)       5
+5971  0.003622            (B739, D, KBOS, False, United Airlines)       5
+5977  0.003622             (B739, E, Delta Air Lines, False, Sat)       5
+5969  0.003622             (Sun, E, False, B738, United Airlines)       5
+6042  0.003622          (E, E145, CYOW, False, Piedmont Airlines)       5
+5990  0.003622            (E, Delta Air Lines, B763, False, EHAM)       5
+5947  0.003622       (KMDW, False, Southwest Airlines, Sat, B737)       5
+5830  0.003881             (E, JetBlue Airways, Mon, False, A320)       5
+5856  0.003881           (A321, E, American Airlines, False, Sat)       5
+5855  0.003881           (A321, E, American Airlines, Mon, False)       5
+5894  0.003881           (B738, E, American Airlines, False, Fri)       5
+6068  0.003881          (D, KPIT, False, E75L, Republic Airlines)       5
+5954  0.003881            (E, Delta Air Lines, False, KSEA, B738)       5
+5931  0.003881            (E, KORD, False, B737, United Airlines)       5
+5901  0.003881           (E, American Airlines, False, Sat, B738)       5
+5898  0.003881          (E, American Airlines, False, KPHL, B738)       5
+5916  0.003881            (D, Delta Air Lines, False, KJFK, B712)       5
+6028  0.003881           (D, KDTW, False, SkyWest Airlines, CRJ7)       5
+6064  0.004140              (D, False, E75L, Mesa Airlines, KCLT)       5
+5953  0.004140            (E, Delta Air Lines, False, KSAN, B738)       5
+5799  0.004140            (E, Delta Air Lines, False, KJFK, A319)       5
+5972  0.004140             (B739, E, Delta Air Lines, False, Fri)       5
+5835  0.004140             (E, Wed, JetBlue Airways, False, A320)       5
+6060  0.004140            (D, E190, JetBlue Airways, KBOS, False)       5
+5904  0.004398           (E, Wed, American Airlines, False, B738)       5
+5891  0.004398           (D, Sun, American Airlines, False, B738)       5
+5886  0.004398          (D, American Airlines, False, B738, KMIA)       5
+5857  0.004398           (Sun, A321, E, American Airlines, False)       5
+5900  0.004398           (E, American Airlines, Mon, False, B738)       5
+5858  0.004398           (Thu, A321, E, American Airlines, False)       5
+5821  0.004398             (E, JetBlue Airways, False, A320, Fri)       5
+5976  0.004398            (B739, E, KPHX, Delta Air Lines, False)       5
+5973  0.004657            (B739, E, Delta Air Lines, KDTW, False)       5
+5850  0.004657           (A321, E, American Airlines, False, Fri)       5
+5984  0.004916            (B744, E, EGLL, False, British Airways)       5
+5890  0.004916           (D, American Airlines, False, Sat, B738)       5
+5834  0.005175             (Thu, E, JetBlue Airways, False, A320)       5
+5803  0.005175      (KLAX, D, False, A320, Alaska Airlines, Inc.)       5
+5833  0.005175             (Sun, E, JetBlue Airways, False, A320)       5
+5897  0.005175          (E, KORD, American Airlines, False, B738)       5
+5798  0.005692            (D, KATL, False, A319, Spirit Airlines)       5
+5861  0.005692            (A321, E, KATL, Delta Air Lines, False)       5
+5825  0.005951            (E, JetBlue Airways, False, KJFK, A320)       5
+5967  0.013972          (E, False, Southwest Airlines, Sat, B738)       5
+5921  0.019664          (D, False, Southwest Airlines, Sat, B737)       5
+5936  0.036999          (E, False, Southwest Airlines, Sat, B737)       5

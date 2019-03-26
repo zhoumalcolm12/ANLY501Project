@@ -1,0 +1,6 @@
+       support                                         itemsets  length
+6107  0.002070  (KLAX, E, False, Southwest Airlines, Sat, B737)       6
+6108  0.002070  (E, KMDW, False, Southwest Airlines, Sat, B737)       6
+6110  0.002329  (E, False, Southwest Airlines, Sat, KSAN, B737)       6
+6106  0.002846  (D, KLAS, False, Southwest Airlines, Sat, B737)       6
+6109  0.003105  (KOAK, E, False, Southwest Airlines, Sat, B737)       6

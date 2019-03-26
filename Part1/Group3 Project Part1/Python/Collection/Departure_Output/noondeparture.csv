@@ -1,0 +1,401 @@
+,actualarrivaltime,actualdeparturetime,aircrafttype,destination,destinationCity,destinationName,estimatedarrivaltime,ident,origin,originCity,originName
+KATL,0,1538961698,B712,KABE,"Allentown, PA",Lehigh Valley Intl,1538967360,DAL1794,KATL,"Atlanta, GA",Hartsfield-Jackson Intl
+KATL,0,1538961599,B752,KMCI,"Kansas City, MO",Kansas City Intl,1538966880,DAL2002,KATL,"Atlanta, GA",Hartsfield-Jackson Intl
+KATL,0,1538961500,B712,KLFT,"Lafayette, LA",Lafayette Rgnl/Paul Fournet Field,1538965620,DAL744,KATL,"Atlanta, GA",Hartsfield-Jackson Intl
+KATL,0,1538961453,MD90,KSDF,"Louisville, KY",Louisville Intl,1538964060,DAL2605,KATL,"Atlanta, GA",Hartsfield-Jackson Intl
+KATL,0,1538961412,MD90,KELP,"El Paso, TX",El Paso Intl,1538970780,DAL2293,KATL,"Atlanta, GA",Hartsfield-Jackson Intl
+KATL,0,1538961300,CRJ9,KTYS,"Knoxville, TN",Mc Ghee Tyson,1538963610,EDV5297,KATL,"Atlanta, GA",Hartsfield-Jackson Intl
+KATL,0,1538961240,MD88,KORD,"Chicago, IL",Chicago O'Hare Intl,1538966160,DAL2241,KATL,"Atlanta, GA",Hartsfield-Jackson Intl
+KATL,0,1538961183,B737,KBWI,"Baltimore, MD",Baltimore/Washington Intl,1538966400,SWA5743,KATL,"Atlanta, GA",Hartsfield-Jackson Intl
+KATL,0,1538961113,MD88,KTLH,"Tallahassee, FL",Tallahassee Intl,1538962860,DAL1669,KATL,"Atlanta, GA",Hartsfield-Jackson Intl
+KATL,0,1538961049,A321,KAUS,"Austin, TX",Austin-Bergstrom Intl,1538967180,DAL2417,KATL,"Atlanta, GA",Hartsfield-Jackson Intl
+KATL,0,1538960936,A320,KDCA,"Washington, DC",Reagan National,1538965140,DAL2787,KATL,"Atlanta, GA",Hartsfield-Jackson Intl
+KATL,0,1538960931,B77W,LFPG,Paris,Charles de Gaulle/Roissy,1538987940,AFR689,KATL,"Atlanta, GA",Hartsfield-Jackson Intl
+KATL,0,1538960820,B752,KMSP,"Minneapolis, MN",Minneapolis/St Paul Intl,1538967720,DAL356,KATL,"Atlanta, GA",Hartsfield-Jackson Intl
+KATL,0,1538960765,A321,KRDU,"Raleigh/Durham, NC",Raleigh-Durham Intl,1538963880,DAL2838,KATL,"Atlanta, GA",Hartsfield-Jackson Intl
+KATL,0,1538960760,MD90,KCLE,"Cleveland, OH",Cleveland-Hopkins Intl,1538964960,DAL2548,KATL,"Atlanta, GA",Hartsfield-Jackson Intl
+KBWI,0,1538961208,B744,KIAH,"Houston, TX",Houston Bush Int'ctl,1538970420,GTI8547,KBWI,"Baltimore, MD",Baltimore/Washington Intl
+KBWI,0,1538960818,A319,KSFO,"San Francisco, CA",San Francisco Intl,1538979720,ASA1127,KBWI,"Baltimore, MD",Baltimore/Washington Intl
+KBWI,0,1538960580,LJ55,KTEB,"Teterboro, NJ",Teterboro,1538962755,N211GS,KBWI,"Baltimore, MD",Baltimore/Washington Intl
+KBWI,0,1538960388,B737,KMCO,"Orlando, FL",Orlando Intl,1538967180,SWA4825,KBWI,"Baltimore, MD",Baltimore/Washington Intl
+KBWI,0,1538960280,LJ60,KAGC,"Pittsburgh, PA",Allegheny County,1538962132,N156DH,KBWI,"Baltimore, MD",Baltimore/Washington Intl
+KBWI,0,1538959920,E190,KBOS,"Boston, MA",Boston Logan Intl,1538963340,JBU1326,KBWI,"Baltimore, MD",Baltimore/Washington Intl
+KBWI,0,1538959834,B752,BIKF,Keflavik,Keflavik Int'l,1538978100,ICE642,KBWI,"Baltimore, MD",Baltimore/Washington Intl
+KBWI,0,1538959656,B737,KIND,"Indianapolis, IN",Indianapolis Intl,1538964420,SWA3129,KBWI,"Baltimore, MD",Baltimore/Washington Intl
+KBWI,0,1538959440,B737,KPVD,"Providence, RI",Green State,1538962380,SWA2660,KBWI,"Baltimore, MD",Baltimore/Washington Intl
+KBWI,0,1538959380,B737,KBUF,"Buffalo, NY",Buffalo Niagara Intl,1538961900,SWA3433,KBWI,"Baltimore, MD",Baltimore/Washington Intl
+KBWI,0,1538959073,B738,KLAS,"Las Vegas, NV",McCarran Intl,1538974800,SWA3578,KBWI,"Baltimore, MD",Baltimore/Washington Intl
+KBWI,0,1538958945,E170,KORD,"Chicago, IL",Chicago O'Hare Intl,1538964840,ENY3396,KBWI,"Baltimore, MD",Baltimore/Washington Intl
+KBWI,1538961300,1538958480,B737,KBDL,"Windsor Locks, CT",Bradley Intl,1538961300,SWA3547,KBWI,"Baltimore, MD",Baltimore/Washington Intl
+KBWI,0,1538958420,A320,KIAH,"Houston, TX",Houston Bush Int'ctl,1538968200,NKS1117,KBWI,"Baltimore, MD",Baltimore/Washington Intl
+KBWI,0,1538958305,B737,KMHT,"Manchester, NH",Manchester,1538961960,SWA5195,KBWI,"Baltimore, MD",Baltimore/Washington Intl
+KBOS,0,1538961720,E190,KLGA,"New York, NY",LaGuardia,1538964480,AAL2157,KBOS,"Boston, MA",Boston Logan Intl
+KBOS,0,1538961709,E190,KJFK,"New York, NY",John F Kennedy Intl,1538964300,JBU317,KBOS,"Boston, MA",Boston Logan Intl
+KBOS,0,1538961540,E190,KCLE,"Cleveland, OH",Cleveland-Hopkins Intl,1538966820,JBU1841,KBOS,"Boston, MA",Boston Logan Intl
+KBOS,0,1538961300,B738,KTPA,"Tampa, FL",Tampa Intl,1538970840,DAL1894,KBOS,"Boston, MA",Boston Logan Intl
+KBOS,0,1538961060,B738,KORD,"Chicago, IL",Chicago O'Hare Intl,1538969220,AAL2387,KBOS,"Boston, MA",Boston Logan Intl
+KBOS,0,1538961059,A320,KFLL,"Fort Lauderdale, FL",Fort Lauderdale Intl,1538971620,JBU2469,KBOS,"Boston, MA",Boston Logan Intl
+KBOS,0,1538960955,PC12,KTTN,"Trenton, NJ",Trenton Mercer,1538965272,CNS176,KBOS,"Boston, MA",Boston Logan Intl
+KBOS,0,1538960820,E190,KRDU,"Raleigh/Durham, NC",Raleigh-Durham Intl,1538966880,JBU1583,KBOS,"Boston, MA",Boston Logan Intl
+KBOS,0,1538960760,E145,KMDT,"Harrisburg, PA",Harrisburg Intl,1538964060,PDT4876,KBOS,"Boston, MA",Boston Logan Intl
+KBOS,0,1538960698,B738,KCMH,"Columbus, OH",John Glenn Columbus Intl Airport,1538966640,SWA2673,KBOS,"Boston, MA",Boston Logan Intl
+KBOS,0,1538960534,E190,KDCA,"Washington, DC",Reagan National,1538965200,JBU1489,KBOS,"Boston, MA",Boston Logan Intl
+KBOS,0,1538960385,A359,EDDM,Munich,Munich Int'l,1538983020,DLH425,KBOS,"Boston, MA",Boston Logan Intl
+KBOS,0,1538960199,A321,KSEA,"Seattle, WA",Seattle-Tacoma Intl,1538981160,JBU197,KBOS,"Boston, MA",Boston Logan Intl
+KBOS,0,1538959740,B738,KBWI,"Baltimore, MD",Baltimore/Washington Intl,1538963760,SWA3098,KBOS,"Boston, MA",Boston Logan Intl
+KCLT,0,1538961600,A321,KSLC,"Salt Lake City, UT",Salt Lake City Intl,1538974620,AAL807,KCLT,"Charlotte, NC",Charlotte/Douglas Intl
+KCLT,0,1538961579,CRJ9,KMHT,"Manchester, NH",Manchester,1538967420,JIA5655,KCLT,"Charlotte, NC",Charlotte/Douglas Intl
+KCLT,0,1538961435,CRJ9,KPHL,"Philadelphia, PA",Philadelphia Intl,1538965380,JIA9909,KCLT,"Charlotte, NC",Charlotte/Douglas Intl
+KCLT,0,1538961315,B738,KJFK,"New York, NY",John F Kennedy Intl,1538966160,AAL1267,KCLT,"Charlotte, NC",Charlotte/Douglas Intl
+KCLT,0,1538961192,A320,KDCA,"Washington, DC",Reagan National,1538964360,AAL545,KCLT,"Charlotte, NC",Charlotte/Douglas Intl
+KCLT,0,1538961017,CRJ9,KCHO,"Charlottesville, VA",Charlottesville-Albemarle,1538963340,JIA5325,KCLT,"Charlotte, NC",Charlotte/Douglas Intl
+KCLT,0,1538961000,A321,KMCO,"Orlando, FL",Orlando Intl,1538965140,AAL1879,KCLT,"Charlotte, NC",Charlotte/Douglas Intl
+KCLT,0,1538961000,CRJ2,KLEX,"Lexington, KY",Blue Grass,1538963580,JIA5410,KCLT,"Charlotte, NC",Charlotte/Douglas Intl
+KCLT,0,1538960955,B738,KBOS,"Boston, MA",Boston Logan Intl,1538967120,AAL2598,KCLT,"Charlotte, NC",Charlotte/Douglas Intl
+KCLT,0,1538960820,CRJ7,KTOL,"Toledo, OH",Toledo Express,1538964780,JIA5443,KCLT,"Charlotte, NC",Charlotte/Douglas Intl
+KCLT,0,1538960790,CRJ9,KSRQ,"Sarasota/Bradenton, FL",Sarasota/Bradenton Intl,1538965260,JIA5382,KCLT,"Charlotte, NC",Charlotte/Douglas Intl
+KCLT,0,1538960743,A319,KPIT,"Pittsburgh, PA",Pittsburgh Intl,1538964000,AAL1749,KCLT,"Charlotte, NC",Charlotte/Douglas Intl
+KCLT,0,1538960731,A320,KPVD,"Providence, RI",Green State,1538966040,AAL712,KCLT,"Charlotte, NC",Charlotte/Douglas Intl
+KCLT,0,1538960624,CRJ9,KIAD,"Washington, DC",Washington Dulles Intl,1538963940,JIA5095,KCLT,"Charlotte, NC",Charlotte/Douglas Intl
+KCLT,0,1538960507,CRJ7,KOAJ,"Jacksonville, NC",Albert J Ellis,1538962560,JIA5587,KCLT,"Charlotte, NC",Charlotte/Douglas Intl
+KMDW,0,1538961722,B737,KTPA,"Tampa, FL",Tampa Intl,1538970000,SWA2907,KMDW,"Chicago, IL",Chicago Midway Intl
+KMDW,0,1538961658,B737,KLGA,"New York, NY",LaGuardia,1538967060,SWA3726,KMDW,"Chicago, IL",Chicago Midway Intl
+KMDW,0,1538961541,B737,KMCO,"Orlando, FL",Orlando Intl,1538969400,SWA2648,KMDW,"Chicago, IL",Chicago Midway Intl
+KMDW,0,1538961245,C56X,KBTL,"Battle Creek, MI",W K Kellogg,1538962505,EJA642,KMDW,"Chicago, IL",Chicago Midway Intl
+KMDW,0,1538961000,B737,KCHS,"Charleston, SC",Charleston Intl/AFB,1538967360,SWA3236,KMDW,"Chicago, IL",Chicago Midway Intl
+KMDW,0,1538960804,B737,KDCA,"Washington, DC",Reagan National,1538965500,SWA2624,KMDW,"Chicago, IL",Chicago Midway Intl
+KMDW,0,1538960376,B38M,KLAX,"Los Angeles, CA",Los Angeles Intl,1538973600,SWA5734,KMDW,"Chicago, IL",Chicago Midway Intl
+KMDW,0,1538960274,B738,KFLL,"Fort Lauderdale, FL",Fort Lauderdale Intl,1538969640,SWA3118,KMDW,"Chicago, IL",Chicago Midway Intl
+KMDW,0,1538960135,CRJ7,KMSP,"Minneapolis, MN",Minneapolis/St Paul Intl,1538963580,SKW3542,KMDW,"Chicago, IL",Chicago Midway Intl
+KMDW,0,1538959980,B737,KBWI,"Baltimore, MD",Baltimore/Washington Intl,1538965080,SWA2016,KMDW,"Chicago, IL",Chicago Midway Intl
+KMDW,0,1538959926,B737,KOMA,"Omaha, NE",Eppley Airfield,1538963700,SWA5626,KMDW,"Chicago, IL",Chicago Midway Intl
+KMDW,0,1538959736,B738,KSMF,"Sacramento, CA",Sacramento Intl,1538973180,SWA3211,KMDW,"Chicago, IL",Chicago Midway Intl
+KMDW,0,1538959653,B737,KSTL,"St Louis, MO",St Louis Lambert Intl,1538962740,SWA2825,KMDW,"Chicago, IL",Chicago Midway Intl
+KMDW,0,1538959561,B738,KRSW,"Fort Myers, FL",Southwest Florida Intl,1538968320,SWA2896,KMDW,"Chicago, IL",Chicago Midway Intl
+KORD,0,1538961746,E75L,KABQ,"Albuquerque, NM",Albuquerque Intl Sunport,1538972066,RPA3473,KORD,"Chicago, IL",Chicago O'Hare Intl
+KORD,0,1538961738,B739,KIAH,"Houston, TX",Houston Bush Int'ctl,1538970060,UAL1113,KORD,"Chicago, IL",Chicago O'Hare Intl
+KORD,0,1538961645,CRJ7,KROC,"Rochester, NY",Greater Rochester Intl,1538965740,ENY4049,KORD,"Chicago, IL",Chicago O'Hare Intl
+KORD,0,1538961584,CRJ2,KATW,"Appleton, WI",Appleton Intl,1538962980,AWI3877,KORD,"Chicago, IL",Chicago O'Hare Intl
+KORD,0,1538961540,A319,KSAT,"San Antonio, TX",San Antonio Intl,1538971080,UAL350,KORD,"Chicago, IL",Chicago O'Hare Intl
+KORD,0,1538961539,E170,CYYZ,"Toronto, Ontario",Toronto Pearson Int'l,1538965140,ENY4122,KORD,"Chicago, IL",Chicago O'Hare Intl
+KORD,0,1538961527,E170,KJAX,"Jacksonville, FL",Jacksonville Intl,1538968680,ENY3591,KORD,"Chicago, IL",Chicago O'Hare Intl
+KORD,0,1538961495,CRJ7,KFWA,"Fort Wayne, IN",Fort Wayne Intl,1538963100,SKW2951,KORD,"Chicago, IL",Chicago O'Hare Intl
+KORD,0,1538961392,CRJ2,KMKE,"Milwaukee, WI",General Mitchell Intl,1538962320,AWI3823,KORD,"Chicago, IL",Chicago O'Hare Intl
+KORD,0,1538961374,CRJ7,KMCI,"Kansas City, MO",Kansas City Intl,1538965200,ENY3397,KORD,"Chicago, IL",Chicago O'Hare Intl
+KORD,0,1538961366,B739,KLAX,"Los Angeles, CA",Los Angeles Intl,1538973720,UAL411,KORD,"Chicago, IL",Chicago O'Hare Intl
+KORD,0,1538961300,CRJ2,KHSV,"Huntsville, AL",Huntsville Intl,1538965500,AWI4875,KORD,"Chicago, IL",Chicago O'Hare Intl
+KORD,0,1538961240,CRJ2,KAVL,"Asheville, NC",Asheville Rgnl,1538966040,SKW5060,KORD,"Chicago, IL",Chicago O'Hare Intl
+KORD,0,1538961159,B77W,LSZH,Zurich,Zurich (Kloten),1538988060,SWR9,KORD,"Chicago, IL",Chicago O'Hare Intl
+KORD,0,1538961152,B739,KEWR,"Newark, NJ",Newark Liberty Intl,1538966880,UAL613,KORD,"Chicago, IL",Chicago O'Hare Intl
+KDFW,0,1538961775,CRJ9,KHOU,"Houston, TX",William P Hobby,1538965315,ASH5723,KDFW,"Dallas-Fort Worth, TX",Dallas-Fort Worth Intl
+KDFW,0,1538961757,B738,KSJC,"San Jose, CA",San Jose Int'l,1538972317,AAL364,KDFW,"Dallas-Fort Worth, TX",Dallas-Fort Worth Intl
+KDFW,0,1538961659,B788,KORD,"Chicago, IL",Chicago O'Hare Intl,1538970300,AAL2520,KDFW,"Dallas-Fort Worth, TX",Dallas-Fort Worth Intl
+KDFW,0,1538961623,B789,KLAX,"Los Angeles, CA",Los Angeles Intl,1538971260,AAL2360,KDFW,"Dallas-Fort Worth, TX",Dallas-Fort Worth Intl
+KDFW,0,1538961536,A321,KSFO,"San Francisco, CA",San Francisco Intl,1538972940,AAL1430,KDFW,"Dallas-Fort Worth, TX",Dallas-Fort Worth Intl
+KDFW,0,1538961393,B739,KSEA,"Seattle, WA",Seattle-Tacoma Intl,1538974260,ASA667,KDFW,"Dallas-Fort Worth, TX",Dallas-Fort Worth Intl
+KDFW,0,1538961348,E170,MMLO,"Silao, Guanajuato",Del Bajio Guanajuato Int'l,1538969460,ENY3703,KDFW,"Dallas-Fort Worth, TX",Dallas-Fort Worth Intl
+KDFW,0,1538961309,A319,KPIT,"Pittsburgh, PA",Pittsburgh Intl,1538969580,AAL1761,KDFW,"Dallas-Fort Worth, TX",Dallas-Fort Worth Intl
+KDFW,0,1538961290,B712,KSLC,"Salt Lake City, UT",Salt Lake City Intl,1538968680,DAL2762,KDFW,"Dallas-Fort Worth, TX",Dallas-Fort Worth Intl
+KDFW,0,1538961244,B738,KABQ,"Albuquerque, NM",Albuquerque Intl Sunport,1538966100,AAL2698,KDFW,"Dallas-Fort Worth, TX",Dallas-Fort Worth Intl
+KDFW,0,1538961145,A321,MMUN,"Cancun, Quintana Roo",Cancun Int'l,1538969220,AAL1547,KDFW,"Dallas-Fort Worth, TX",Dallas-Fort Worth Intl
+KDFW,0,1538961053,B772,SAEZ,"Ezeiza, Buenos Aires Province",Ministro Pistarini Int'l,1538995920,AAL997,KDFW,"Dallas-Fort Worth, TX",Dallas-Fort Worth Intl
+KDFW,0,1538960978,E170,KFAR,"Fargo, ND",Hector Intl,1538968200,ENY3802,KDFW,"Dallas-Fort Worth, TX",Dallas-Fort Worth Intl
+KDFW,0,1538960936,CRJ9,KVPS,"Valparaiso/Destin-Ft Walton Beach, FL",Eglin Afb/Destin-Ft Walton Beach,1538965920,ASH5906,KDFW,"Dallas-Fort Worth, TX",Dallas-Fort Worth Intl
+KDFW,0,1538960899,B738,KMSP,"Minneapolis, MN",Minneapolis/St Paul Intl,1538967180,AAL1578,KDFW,"Dallas-Fort Worth, TX",Dallas-Fort Worth Intl
+KDEN,0,1538961743,E75L,KCOS,"Colorado Springs, CO",Colorado Sprgs Muni,1538962883,SKW5671,KDEN,"Denver, CO",Denver Intl
+KDEN,0,1538961533,CRJ7,KRDM,"Redmond, OR",Roberts Field,1538968320,GJS4516,KDEN,"Denver, CO",Denver Intl
+KDEN,0,1538961510,CRJ7,KGPI,"Kalispell, MT",Glacier Park Intl,1538965590,GJS4482,KDEN,"Denver, CO",Denver Intl
+KDEN,0,1538961480,CRJ7,KASE,"Aspen, CO",Aspen-Pitkin County,1538963160,SKW5874,KDEN,"Denver, CO",Denver Intl
+KDEN,0,1538961430,B739,KIAH,"Houston, TX",Houston Bush Int'ctl,1538969640,UAL1184,KDEN,"Denver, CO",Denver Intl
+KDEN,0,1538961407,B738,KSMF,"Sacramento, CA",Sacramento Intl,1538968380,SWA5605,KDEN,"Denver, CO",Denver Intl
+KDEN,0,1538961337,A319,KMSO,"Missoula, MT",Missoula Intl,1538966700,UAL1717,KDEN,"Denver, CO",Denver Intl
+KDEN,0,1538961319,B737,KSFO,"San Francisco, CA",San Francisco Intl,1538968560,SWA3904,KDEN,"Denver, CO",Denver Intl
+KDEN,0,1538961250,E145,KGTF,"Great Falls, MT",Great Falls Intl,1538966640,LOF4713,KDEN,"Denver, CO",Denver Intl
+KDEN,0,1538961145,A320,KSJC,"San Jose, CA",San Jose Int'l,1538968800,UAL8122,KDEN,"Denver, CO",Denver Intl
+KDEN,0,1538960954,A321,KPHX,"Phoenix, AZ",Phoenix Sky Harbor Intl,1538966460,AAL420,KDEN,"Denver, CO",Denver Intl
+KDEN,0,1538960483,A320,KRNO,"Reno, NV",Reno/Tahoe Intl,1538966940,UAL2215,KDEN,"Denver, CO",Denver Intl
+KDEN,0,1538960467,B739,KSEA,"Seattle, WA",Seattle-Tacoma Intl,1538969400,ASA677,KDEN,"Denver, CO",Denver Intl
+KDEN,0,1538960341,B744,EDDF,Frankfurt am Main,Frankfurt Int'l,1538989380,DLH447,KDEN,"Denver, CO",Denver Intl
+KDEN,0,1538960280,B737,KLGB,"Long Beach, CA",Daugherty Field,1538966940,SWA2124,KDEN,"Denver, CO",Denver Intl
+KDTW,0,1538961746,B739,KBOS,"Boston, MA",Boston Logan Intl,1538966400,DAL2971,KDTW,"Detroit, MI",Detroit Metro Wayne Co
+KDTW,0,1538961523,B772,LFPG,Paris,Charles de Gaulle/Roissy,1538985120,AFR377,KDTW,"Detroit, MI",Detroit Metro Wayne Co
+KDTW,0,1538961100,CRJ9,KORF,"Norfolk, VA",Norfolk Intl,1538965320,GJS6195,KDTW,"Detroit, MI",Detroit Metro Wayne Co
+KDTW,0,1538960998,A320,KRDU,"Raleigh/Durham, NC",Raleigh-Durham Intl,1538965560,FFT624,KDTW,"Detroit, MI",Detroit Metro Wayne Co
+KDTW,0,1538960582,B763,KSFO,"San Francisco, CA",San Francisco Intl,1538976960,DAL2462,KDTW,"Detroit, MI",Detroit Metro Wayne Co
+KDTW,0,1538960400,CRJ2,KCHA,"Chattanooga, TN",Lovell Field,1538964660,SKW3572,KDTW,"Detroit, MI",Detroit Metro Wayne Co
+KDTW,0,1538960273,B752,KLAX,"Los Angeles, CA",Los Angeles Intl,1538976300,DAL1845,KDTW,"Detroit, MI",Detroit Metro Wayne Co
+KDTW,0,1538960267,B712,KSAT,"San Antonio, TX",San Antonio Intl,1538969940,DAL2843,KDTW,"Detroit, MI",Detroit Metro Wayne Co
+KDTW,0,1538960159,CRJ7,KHSV,"Huntsville, AL",Huntsville Intl,1538964600,SKW3748,KDTW,"Detroit, MI",Detroit Metro Wayne Co
+KDTW,0,1538960100,B739,KPDX,"Portland, OR",Portland Intl,1538975160,DAL779,KDTW,"Detroit, MI",Detroit Metro Wayne Co
+KDTW,0,1538960040,CRJ7,KDAY,"Dayton, OH",James M Cox Dayton Intl,1538962111,GJS6275,KDTW,"Detroit, MI",Detroit Metro Wayne Co
+KDTW,0,1538959985,A333,EHAM,Amsterdam,Amsterdam Schiphol,1538983680,DAL136,KDTW,"Detroit, MI",Detroit Metro Wayne Co
+KDTW,0,1538959983,CRJ7,KLIT,"Little Rock, AR",Clinton National,1538965320,SKW3600,KDTW,"Detroit, MI",Detroit Metro Wayne Co
+KDTW,0,1538959880,B739,KFLL,"Fort Lauderdale, FL",Fort Lauderdale Intl,1538969400,DAL2519,KDTW,"Detroit, MI",Detroit Metro Wayne Co
+KDTW,0,1538959860,B739,KDEN,"Denver, CO",Denver Intl,1538969460,DAL740,KDTW,"Detroit, MI",Detroit Metro Wayne Co
+KFLL,0,1538961494,B77L,OMDB,Dubai,Dubai Int'l,1539012240,UAE214,KFLL,"Fort Lauderdale, FL",Fort Lauderdale Intl
+KFLL,0,1538961368,A320,KCLE,"Cleveland, OH",Cleveland-Hopkins Intl,1538969340,JBU658,KFLL,"Fort Lauderdale, FL",Fort Lauderdale Intl
+KFLL,0,1538961262,B738,KMIA,"Miami, FL",Miami Intl,1538961780,BSK520,KFLL,"Fort Lauderdale, FL",Fort Lauderdale Intl
+KFLL,0,1538961076,A320,SKRG,Medellin/Rionegro,Jose Maria Cordova Int'l,1538972220,JBU41,KFLL,"Fort Lauderdale, FL",Fort Lauderdale Intl
+KFLL,0,1538960961,A320,KDTW,"Detroit, MI",Detroit Metro Wayne Co,1538969820,JBU1590,KFLL,"Fort Lauderdale, FL",Fort Lauderdale Intl
+KFLL,0,1538960640,B737,KEWR,"Newark, NJ",Newark Liberty Intl,1538969040,SWA4047,KFLL,"Fort Lauderdale, FL",Fort Lauderdale Intl
+KFLL,0,1538960590,A321,KEWR,"Newark, NJ",Newark Liberty Intl,1538969400,NKS528,KFLL,"Fort Lauderdale, FL",Fort Lauderdale Intl
+KFLL,0,1538960494,A321,KDEN,"Denver, CO",Denver Intl,1538973360,NKS355,KFLL,"Fort Lauderdale, FL",Fort Lauderdale Intl
+KFLL,0,1538960250,A320,KLAS,"Las Vegas, NV",McCarran Intl,1538976780,NKS777,KFLL,"Fort Lauderdale, FL",Fort Lauderdale Intl
+KFLL,0,1538960166,A321,KDTW,"Detroit, MI",Detroit Metro Wayne Co,1538968740,NKS380,KFLL,"Fort Lauderdale, FL",Fort Lauderdale Intl
+KFLL,0,1538960099,BE9L,KSGJ,"St Augustine, FL",Northeast Florida Rgnl,1538964287,N515BC,KFLL,"Fort Lauderdale, FL",Fort Lauderdale Intl
+KFLL,0,1538959987,A319,KPIT,"Pittsburgh, PA",Pittsburgh Intl,1538967660,NKS558,KFLL,"Fort Lauderdale, FL",Fort Lauderdale Intl
+KFLL,0,1538959800,A320,KATL,"Atlanta, GA",Hartsfield-Jackson Intl,1538965080,JBU568,KFLL,"Fort Lauderdale, FL",Fort Lauderdale Intl
+KFLL,0,1538959782,B738,KDFW,"Dallas-Fort Worth, TX",Dallas-Fort Worth Intl,1538968980,AAL1180,KFLL,"Fort Lauderdale, FL",Fort Lauderdale Intl
+KFLL,0,1538959717,A320,KCVG,"Hebron, KY",Cincinnati/Northern Kentucky International Airport,1538967300,AAY1313,KFLL,"Fort Lauderdale, FL",Fort Lauderdale Intl
+KIAH,0,1538961742,A388,OMDB,Dubai,Dubai Int'l,1539013320,UAE212,KIAH,"Houston, TX",Houston Bush Int'ctl
+KIAH,0,1538961720,A319,KOMA,"Omaha, NE",Eppley Airfield,1538968380,UAL490,KIAH,"Houston, TX",Houston Bush Int'ctl
+KIAH,0,1538961614,E75L,KDTW,"Detroit, MI",Detroit Metro Wayne Co,1538969340,ASH6021,KIAH,"Houston, TX",Houston Bush Int'ctl
+KIAH,0,1538961600,E75L,KDFW,"Dallas-Fort Worth, TX",Dallas-Fort Worth Intl,1538964180,ASH6054,KIAH,"Houston, TX",Houston Bush Int'ctl
+KIAH,0,1538961549,E75L,KBHM,"Birmingham, AL",Birmingham-Shuttlesworth Intl,1538966160,ASH6343,KIAH,"Houston, TX",Houston Bush Int'ctl
+KIAH,0,1538961540,A320,KSAT,"San Antonio, TX",San Antonio Intl,1538964120,UAL530,KIAH,"Houston, TX",Houston Bush Int'ctl
+KIAH,0,1538961540,B738,MMMX,Mexico City,Lic. Benito Juarez Int'l,1538967900,UAL429,KIAH,"Houston, TX",Houston Bush Int'ctl
+KIAH,0,1538961536,B739,KAUS,"Austin, TX",Austin-Bergstrom Intl,1538963100,UAL740,KIAH,"Houston, TX",Houston Bush Int'ctl
+KIAH,0,1538961480,E145,KSAV,"Savannah, GA",Savannah/Hilton Head Intl,1538968980,ASQ4415,KIAH,"Houston, TX",Houston Bush Int'ctl
+KIAH,0,1538961441,B738,KPHL,"Philadelphia, PA",Philadelphia Intl,1538971500,UAL1753,KIAH,"Houston, TX",Houston Bush Int'ctl
+KIAH,0,1538961375,E75L,KJAN,"Jackson, MS",Jackson-Medgar Wiley Evers Intl,1538964600,ASH6324,KIAH,"Houston, TX",Houston Bush Int'ctl
+KIAH,0,1538961300,E170,KPIT,"Pittsburgh, PA",Pittsburgh Intl,1538969820,RPA3439,KIAH,"Houston, TX",Houston Bush Int'ctl
+KIAH,0,1538961240,B738,KDEN,"Denver, CO",Denver Intl,1538967840,UAL2076,KIAH,"Houston, TX",Houston Bush Int'ctl
+KIAH,0,1538961180,E145,KTYS,"Knoxville, TN",Mc Ghee Tyson,1538968260,ASQ4385,KIAH,"Houston, TX",Houston Bush Int'ctl
+KIAH,0,1538961175,B739,KFLL,"Fort Lauderdale, FL",Fort Lauderdale Intl,1538968560,UAL2100,KIAH,"Houston, TX",Houston Bush Int'ctl
+KLAS,0,1538961660,A320,KDEN,"Denver, CO",Denver Intl,1538966760,UAL1657,KLAS,"Las Vegas, NV",McCarran Intl
+KLAS,0,1538961640,B738,KOMA,"Omaha, NE",Eppley Airfield,1538969700,SWA4568,KLAS,"Las Vegas, NV",McCarran Intl
+KLAS,0,1538961518,B738,KSAT,"San Antonio, TX",San Antonio Intl,1538969700,SWA3786,KLAS,"Las Vegas, NV",McCarran Intl
+KLAS,0,1538961474,A319,KLAX,"Los Angeles, CA",Los Angeles Intl,1538964000,NKS481,KLAS,"Las Vegas, NV",McCarran Intl
+KLAS,0,1538961363,GLF5,KSNA,"Santa Ana, CA",John Wayne,1538963760,N1AM,KLAS,"Las Vegas, NV",McCarran Intl
+KLAS,0,1538961286,LJ45,KSDL,"Scottsdale, AZ",Scottsdale,1538963940,N395BC,KLAS,"Las Vegas, NV",McCarran Intl
+KLAS,0,1538961173,B737,CYWG,"Winnipeg, Manitoba",Winnipeg Int'l,1538971260,WJA1353,KLAS,"Las Vegas, NV",McCarran Intl
+KLAS,0,1538961135,B737,KSJC,"San Jose, CA",San Jose Int'l,1538964600,SWA2129,KLAS,"Las Vegas, NV",McCarran Intl
+KLAS,0,1538961091,A319,KFLL,"Fort Lauderdale, FL",Fort Lauderdale Intl,1538976360,NKS102,KLAS,"Las Vegas, NV",McCarran Intl
+KLAS,0,1538960991,A321,KORD,"Chicago, IL",Chicago O'Hare Intl,1538971920,NKS356,KLAS,"Las Vegas, NV",McCarran Intl
+KLAS,0,1538960936,B737,KRNO,"Reno, NV",Reno/Tahoe Intl,1538964540,SWA2053,KLAS,"Las Vegas, NV",McCarran Intl
+KLAS,0,1538960700,E135,KOAK,"Oakland, CA",Metropolitan Oakland Intl,1538964808,JSX238,KLAS,"Las Vegas, NV",McCarran Intl
+KLAS,0,1538960700,BE40,KSNA,"Santa Ana, CA",John Wayne,1538963160,RGY63,KLAS,"Las Vegas, NV",McCarran Intl
+KLAS,0,1538960594,B738,KCMH,"Columbus, OH",John Glenn Columbus Intl Airport,1538973360,SWA5495,KLAS,"Las Vegas, NV",McCarran Intl
+KLAS,0,1538960547,A319,KOAK,"Oakland, CA",Metropolitan Oakland Intl,1538963520,AAY112,KLAS,"Las Vegas, NV",McCarran Intl
+KLAX,0,1538961618,B738,KMSY,"New Orleans, LA",New Orleans Intl,1538973300,DAL2592,KLAX,"Los Angeles, CA",Los Angeles Intl
+KLAX,0,1538961480,B753,KORD,"Chicago, IL",Chicago O'Hare Intl,1538973600,UAL661,KLAX,"Los Angeles, CA",Los Angeles Intl
+KLAX,0,1538961233,B772,EGLL,"London, England",London Heathrow,1538995200,AAL108,KLAX,"Los Angeles, CA",Los Angeles Intl
+KLAX,0,1538961124,B738,KMSP,"Minneapolis, MN",Minneapolis/St Paul Intl,1538972100,SCX426,KLAX,"Los Angeles, CA",Los Angeles Intl
+KLAX,0,1538961040,B38M,CYYZ,"Toronto, Ontario",Toronto Pearson Int'l,1538976000,ACA786,KLAX,"Los Angeles, CA",Los Angeles Intl
+KLAX,0,1538961000,B739,KPDX,"Portland, OR",Portland Intl,1538968740,ASA437,KLAX,"Los Angeles, CA",Los Angeles Intl
+KLAX,0,1538960947,A321,KIAH,"Houston, TX",Houston Bush Int'ctl,1538971200,NKS1166,KLAX,"Los Angeles, CA",Los Angeles Intl
+KLAX,0,1538960889,E75L,KSMF,"Sacramento, CA",Sacramento Intl,1538964660,SKW5583,KLAX,"Los Angeles, CA",Los Angeles Intl
+KLAX,0,1538960766,B738,KDFW,"Dallas-Fort Worth, TX",Dallas-Fort Worth Intl,1538969940,AAL2265,KLAX,"Los Angeles, CA",Los Angeles Intl
+KLAX,0,1538960649,B789,EGLL,"London, England",London Heathrow,1538993640,UAL923,KLAX,"Los Angeles, CA",Los Angeles Intl
+KLAX,0,1538960645,B77W,RKSI,Seoul (Incheon),Incheon Int'l,1539004875,SIA7,KLAX,"Los Angeles, CA",Los Angeles Intl
+KLAX,0,1538960526,A319,KBNA,"Nashville, TN",Nashville Intl,1538973780,DAL1268,KLAX,"Los Angeles, CA",Los Angeles Intl
+KLAX,0,1538960431,E75L,KSEA,"Seattle, WA",Seattle-Tacoma Intl,1538969880,CPZ6052,KLAX,"Los Angeles, CA",Los Angeles Intl
+KLAX,0,1538960377,A321,KMSP,"Minneapolis, MN",Minneapolis/St Paul Intl,1538970900,DAL2648,KLAX,"Los Angeles, CA",Los Angeles Intl
+KLAX,0,1538960334,B738,KDAL,"Dallas, TX",Dallas Love Field,1538969700,SWA3843,KLAX,"Los Angeles, CA",Los Angeles Intl
+KMIA,0,1538961532,B763,TJSJ,"San Juan, PR",Luis Munoz Marin Intl,1538968860,AAL1570,KMIA,"Miami, FL",Miami Intl
+KMIA,0,1538961312,B763,KTPA,"Tampa, FL",Tampa Intl,1538963880,GTI3596,KMIA,"Miami, FL",Miami Intl
+KMIA,0,1538961156,B773,LTBA,Istanbul,Istanbul Ataturk Int'l,1538999460,THY78,KMIA,"Miami, FL",Miami Intl
+KMIA,0,1538961071,B38M,KLGA,"New York, NY",LaGuardia,1538969580,AAL1171,KMIA,"Miami, FL",Miami Intl
+KMIA,0,1538960850,E55P,KJAX,"Jacksonville, FL",Jacksonville Intl,1538964600,OPT365,KMIA,"Miami, FL",Miami Intl
+KMIA,0,1538960700,B738,KDCA,"Washington, DC",Reagan National,1538967960,AAL2362,KMIA,"Miami, FL",Miami Intl
+KMIA,0,1538960641,B38M,KDEN,"Denver, CO",Denver Intl,1538973480,AAL2793,KMIA,"Miami, FL",Miami Intl
+KMIA,0,1538960505,B744,EGLL,"London, England",London Heathrow,1538987760,BAW208,KMIA,"Miami, FL",Miami Intl
+KMIA,0,1538960417,A319,KDTW,"Detroit, MI",Detroit Metro Wayne Co,1538968980,AAL1023,KMIA,"Miami, FL",Miami Intl
+KMIA,0,1538960333,B738,KSEA,"Seattle, WA",Seattle-Tacoma Intl,1538980800,AAL305,KMIA,"Miami, FL",Miami Intl
+KMIA,0,1538960222,B77W,SBGR,Sao Paulo,São Paulo-Guarulhos Int'l,1538988360,TAM8091,KMIA,"Miami, FL",Miami Intl
+KMIA,0,1538960107,A319,CYYZ,"Toronto, Ontario",Toronto Pearson Int'l,1538969520,AAL1246,KMIA,"Miami, FL",Miami Intl
+KMIA,0,1538960040,B738,KLGA,"New York, NY",LaGuardia,1538968380,AAL360,KMIA,"Miami, FL",Miami Intl
+KMIA,0,1538959949,B763,LIMC,Milan,Malpensa Int'l,1538992860,AAL206,KMIA,"Miami, FL",Miami Intl
+KMSP,0,1538961764,B739,KLAS,"Las Vegas, NV",McCarran Intl,1538971740,DAL2468,KMSP,"Minneapolis, MN",Minneapolis/St Paul Intl
+KMSP,0,1538961660,CRJ7,KTUL,"Tulsa, OK",Tulsa Intl,1538966760,SKW4713,KMSP,"Minneapolis, MN",Minneapolis/St Paul Intl
+KMSP,0,1538961608,CRJ9,KTYS,"Knoxville, TN",Mc Ghee Tyson,1538968380,EDV5107,KMSP,"Minneapolis, MN",Minneapolis/St Paul Intl
+KMSP,0,1538961600,MD90,KBDL,"Windsor Locks, CT",Bradley Intl,1538968920,DAL890,KMSP,"Minneapolis, MN",Minneapolis/St Paul Intl
+KMSP,0,1538961554,B739,KPHX,"Phoenix, AZ",Phoenix Sky Harbor Intl,1538971320,DAL2070,KMSP,"Minneapolis, MN",Minneapolis/St Paul Intl
+KMSP,0,1538961307,B738,KLAX,"Los Angeles, CA",Los Angeles Intl,1538973840,SCX429,KMSP,"Minneapolis, MN",Minneapolis/St Paul Intl
+KMSP,0,1538961129,CRJ9,KORF,"Norfolk, VA",Norfolk Intl,1538968860,EDV5478,KMSP,"Minneapolis, MN",Minneapolis/St Paul Intl
+KMSP,0,1538961023,CRJ7,KICT,"Wichita, KS",Wichita Eisenhower,1538965680,SKW4940,KMSP,"Minneapolis, MN",Minneapolis/St Paul Intl
+KMSP,0,1538960947,B738,KLAS,"Las Vegas, NV",McCarran Intl,1538971560,SCX117,KMSP,"Minneapolis, MN",Minneapolis/St Paul Intl
+KMSP,0,1538960803,B738,KBZN,"Bozeman, MT",Bozeman Yellowstone Intl,1538967600,DAL1597,KMSP,"Minneapolis, MN",Minneapolis/St Paul Intl
+KMSP,0,1538960772,A319,KATL,"Atlanta, GA",Hartsfield-Jackson Intl,1538968860,NKS429,KMSP,"Minneapolis, MN",Minneapolis/St Paul Intl
+KMSP,0,1538960718,B739,KGEG,"Spokane, WA",Spokane Intl,1538969820,DAL1841,KMSP,"Minneapolis, MN",Minneapolis/St Paul Intl
+KMSP,0,1538960584,B763,KMEM,"Memphis, TN",Memphis Intl,1538967900,FDX728,KMSP,"Minneapolis, MN",Minneapolis/St Paul Intl
+KMSP,0,1538960488,CRJ2,KDLH,"Duluth, MN",Duluth Intl,1538962214,SKW4739,KMSP,"Minneapolis, MN",Minneapolis/St Paul Intl
+KJFK,0,1538961668,A332,LIMC,Milan,Malpensa Int'l,1538986740,ISS9BG,KJFK,"New York, NY",John F Kennedy Intl
+KJFK,0,1538961662,E190,KPWM,"Portland, ME",Portland Intl Jetport,1538964660,JBU408,KJFK,"New York, NY",John F Kennedy Intl
+KJFK,0,1538961496,C680,CYYC,"Calgary, Alberta",Calgary Int'l,1538979120,CNK771,KJFK,"New York, NY",John F Kennedy Intl
+KJFK,0,1538961360,A320,KLAX,"Los Angeles, CA",Los Angeles Intl,1538980680,ASA1415,KJFK,"New York, NY",John F Kennedy Intl
+KJFK,0,1538961300,A319,KDCA,"Washington, DC",Reagan National,1538963700,DAL2930,KJFK,"New York, NY",John F Kennedy Intl
+KJFK,0,1538961296,B764,LEBL,Barcelona,Barcelona Int'l,1538986200,DAL476,KJFK,"New York, NY",John F Kennedy Intl
+KJFK,0,1538961180,CRJ2,KBWI,"Baltimore, MD",Baltimore/Washington Intl,1538963280,EDV5253,KJFK,"New York, NY",John F Kennedy Intl
+KJFK,0,1538961176,A333,EGLL,"London, England",London Heathrow,1538982660,VIR138,KJFK,"New York, NY",John F Kennedy Intl
+KJFK,0,1538961104,A333,LIRF,Rome,Leonardo da Vinci Int'l (Fiumicino Int'l),1538988180,DAL444,KJFK,"New York, NY",John F Kennedy Intl
+KJFK,0,1538961078,E135,KBNA,"Nashville, TN",Nashville Intl,1538968620,ENY4077,KJFK,"New York, NY",John F Kennedy Intl
+KJFK,0,1538961026,B744,EGLL,"London, England",London Heathrow,1538980886,BAW176,KJFK,"New York, NY",John F Kennedy Intl
+KJFK,0,1538960951,B738,KDEN,"Denver, CO",Denver Intl,1538975100,AAL2447,KJFK,"New York, NY",John F Kennedy Intl
+KJFK,0,1538960864,A321,KLAX,"Los Angeles, CA",Los Angeles Intl,1538980320,AAL300,KJFK,"New York, NY",John F Kennedy Intl
+KJFK,0,1538960811,A321,MKJP,Kingston,Norman Manley Int'l,1538973120,JBU659,KJFK,"New York, NY",John F Kennedy Intl
+KJFK,0,1538960700,A320,KPHX,"Phoenix, AZ",Phoenix Sky Harbor Intl,1538978040,JBU135,KJFK,"New York, NY",John F Kennedy Intl
+KLGA,0,1538961749,A320,KATL,"Atlanta, GA",Hartsfield-Jackson Intl,1538968020,DAL538,KLGA,"New York, NY",LaGuardia
+KLGA,0,1538961420,A319,KORD,"Chicago, IL",Chicago O'Hare Intl,1538968260,UAL1249,KLGA,"New York, NY",LaGuardia
+KLGA,0,1538961419,A320,KMCO,"Orlando, FL",Orlando Intl,1538969280,JBU499,KLGA,"New York, NY",LaGuardia
+KLGA,0,1538961180,CRJ9,KOMA,"Omaha, NE",Eppley Airfield,1538971500,EDV3470,KLGA,"New York, NY",LaGuardia
+KLGA,0,1538961133,E75L,KCHS,"Charleston, SC",Charleston Intl/AFB,1538966280,SKW4007,KLGA,"New York, NY",LaGuardia
+KLGA,0,1538961000,CRJ9,KCHA,"Chattanooga, TN",Lovell Field,1538966460,EDV5228,KLGA,"New York, NY",LaGuardia
+KLGA,0,1538960940,B737,KMDW,"Chicago, IL",Chicago Midway Intl,1538967240,SWA5496,KLGA,"New York, NY",LaGuardia
+KLGA,0,1538960893,E135,KRDU,"Raleigh/Durham, NC",Raleigh-Durham Intl,1538965680,ENY3948,KLGA,"New York, NY",LaGuardia
+KLGA,0,1538960880,E135,CYUL,"Montreal, Quebec",Montreal-Trudeau,1538964120,ENY4127,KLGA,"New York, NY",LaGuardia
+KLGA,0,1538960835,E75S,CYUL,"Montreal, Quebec",Montreal-Trudeau,1538963580,SKV7645,KLGA,"New York, NY",LaGuardia
+KLGA,0,1538960760,CRJ9,KCAE,"Columbia, SC",Columbia Metropolitan,1538966040,EDV5381,KLGA,"New York, NY",LaGuardia
+KLGA,0,1538960598,CRJ2,KCHO,"Charlottesville, VA",Charlottesville-Albemarle,1538963940,EDV5243,KLGA,"New York, NY",LaGuardia
+KLGA,0,1538960529,A321,KFLL,"Fort Lauderdale, FL",Fort Lauderdale Intl,1538969880,NKS779,KLGA,"New York, NY",LaGuardia
+KLGA,0,1538960400,CRJ9,KTYS,"Knoxville, TN",Mc Ghee Tyson,1538965320,EDV5194,KLGA,"New York, NY",LaGuardia
+KLGA,0,1538960316,CRJ9,KRIC,"Richmond, VA",Richmond Intl,1538963760,EDV5528,KLGA,"New York, NY",LaGuardia
+KEWR,0,1538961634,E170,KMSP,"Minneapolis, MN",Minneapolis/St Paul Intl,1538970240,RPA3531,KEWR,"Newark, NJ",Newark Liberty Intl
+KEWR,0,1538961540,A320,KMCO,"Orlando, FL",Orlando Intl,1538970060,JBU127,KEWR,"Newark, NJ",Newark Liberty Intl
+KEWR,0,1538961486,E145,KELM,"Elmira/Corning, NY",Elmira/Corning Rgnl,1538963580,UCA4891,KEWR,"Newark, NJ",Newark Liberty Intl
+KEWR,0,1538961412,E145,KBUF,"Buffalo, NY",Buffalo Niagara Intl,1538964420,UCA4969,KEWR,"Newark, NJ",Newark Liberty Intl
+KEWR,0,1538961352,CRJ2,CYOW,"Ottawa, Ontario",Ottawa Macdonald-Cartier Int'l,1538964780,JZA8857,KEWR,"Newark, NJ",Newark Liberty Intl
+KEWR,0,1538961282,A320,KPBI,"West Palm Beach, FL",Palm Beach Intl,1538969940,JBU543,KEWR,"Newark, NJ",Newark Liberty Intl
+KEWR,0,1538961173,B752,LPPT,Lisbon,"Lisbon / Lisboa,Portela (Lisbon)",1538983260,UAL64,KEWR,"Newark, NJ",Newark Liberty Intl
+KEWR,0,1538961103,E170,KOKC,"Oklahoma City, OK",Will Rogers World,1538971620,RPA3532,KEWR,"Newark, NJ",Newark Liberty Intl
+KEWR,0,1538960996,B739,TJBQ,"Aguadilla, PR",Rafael Hernandez,1538973360,UAL1071,KEWR,"Newark, NJ",Newark Liberty Intl
+KEWR,0,1538960898,B752,KLAX,"Los Angeles, CA",Los Angeles Intl,1538979180,UAL1165,KEWR,"Newark, NJ",Newark Liberty Intl
+KEWR,0,1538960700,MD88,KATL,"Atlanta, GA",Hartsfield-Jackson Intl,1538967000,DAL1275,KEWR,"Newark, NJ",Newark Liberty Intl
+KEWR,0,1538960696,B738,KPWM,"Portland, ME",Portland Intl Jetport,1538963580,UAL2330,KEWR,"Newark, NJ",Newark Liberty Intl
+KEWR,0,1538960460,A319,KBOS,"Boston, MA",Boston Logan Intl,1538963220,UAL994,KEWR,"Newark, NJ",Newark Liberty Intl
+KEWR,0,1538960427,B772,VABB,Mumbai,Chatrapati Shivaji Int'l,1539011460,UAL48,KEWR,"Newark, NJ",Newark Liberty Intl
+KEWR,0,1538960305,A21N,KSFO,"San Francisco, CA",San Francisco Intl,1538979540,ASA1195,KEWR,"Newark, NJ",Newark Liberty Intl
+KMCO,0,1538961654,A319,KDCA,"Washington, DC",Reagan National,1538967360,AAL1649,KMCO,"Orlando, FL",Orlando Intl
+KMCO,0,1538961631,A320,MDSD,Punta Caucedo,Las Americas,1538969220,JBU1705,KMCO,"Orlando, FL",Orlando Intl
+KMCO,0,1538961591,B737,KMSP,"Minneapolis, MN",Minneapolis/St Paul Intl,1538972340,SCX348,KMCO,"Orlando, FL",Orlando Intl
+KMCO,0,1538961430,A332,SBKP,"Campinas, Sao Paulo",Viracopos Int'l,1538990520,AZU8707,KMCO,"Orlando, FL",Orlando Intl
+KMCO,0,1538961318,B738,KMHT,"Manchester, NH",Manchester,1538970300,SWA5385,KMCO,"Orlando, FL",Orlando Intl
+KMCO,0,1538961185,B772,EGKK,"London, England",London Gatwick,1538988120,BAW2038,KMCO,"Orlando, FL",Orlando Intl
+KMCO,0,1538960830,A321,KIAH,"Houston, TX",Houston Bush Int'ctl,1538967780,NKS715,KMCO,"Orlando, FL",Orlando Intl
+KMCO,0,1538960728,B744,EDDF,Frankfurt am Main,Frankfurt Int'l,1538989440,DLH465,KMCO,"Orlando, FL",Orlando Intl
+KMCO,0,1538960569,A321,TJSJ,"San Juan, PR",Luis Munoz Marin Intl,1538969100,FFT1660,KMCO,"Orlando, FL",Orlando Intl
+KMCO,0,1538960220,B752,KATL,"Atlanta, GA",Hartsfield-Jackson Intl,1538963940,DAL1684,KMCO,"Orlando, FL",Orlando Intl
+KMCO,0,1538960090,A320,TJSJ,"San Juan, PR",Luis Munoz Marin Intl,1538968800,NKS883,KMCO,"Orlando, FL",Orlando Intl
+KMCO,0,1538959851,B763,SBGR,Sao Paulo,São Paulo-Guarulhos Int'l,1538990640,TAM8087,KMCO,"Orlando, FL",Orlando Intl
+KMCO,0,1538959697,A320,KHPN,"White Plains, NY",Westchester County,1538968200,JBU1294,KMCO,"Orlando, FL",Orlando Intl
+KMCO,0,1538959569,B738,KPHL,"Philadelphia, PA",Philadelphia Intl,1538966520,AAL2525,KMCO,"Orlando, FL",Orlando Intl
+KMCO,0,1538959440,B737,KBDL,"Windsor Locks, CT",Bradley Intl,1538967480,SWA1349,KMCO,"Orlando, FL",Orlando Intl
+KPHL,0,1538961765,A321,KLAX,"Los Angeles, CA",Los Angeles Intl,1538980140,AAL1958,KPHL,"Philadelphia, PA",Philadelphia Intl
+KPHL,0,1538961693,A319,KDCA,"Washington, DC",Reagan National,1538963133,AAL1825,KPHL,"Philadelphia, PA",Philadelphia Intl
+KPHL,0,1538961634,A321,KDFW,"Dallas-Fort Worth, TX",Dallas-Fort Worth Intl,1538971860,AAL2057,KPHL,"Philadelphia, PA",Philadelphia Intl
+KPHL,0,1538961540,E190,KCLE,"Cleveland, OH",Cleveland-Hopkins Intl,1538965140,AAL1987,KPHL,"Philadelphia, PA",Philadelphia Intl
+KPHL,0,1538961477,A320,KAUS,"Austin, TX",Austin-Bergstrom Intl,1538972340,AAL1764,KPHL,"Philadelphia, PA",Philadelphia Intl
+KPHL,0,1538961374,A359,OTHH,Doha,Hamad Int'l,1539003300,QTR728,KPHL,"Philadelphia, PA",Philadelphia Intl
+KPHL,0,1538961278,E190,KIAH,"Houston, TX",Houston Bush Int'ctl,1538971200,AAL1892,KPHL,"Philadelphia, PA",Philadelphia Intl
+KPHL,0,1538961235,E145,KLEX,"Lexington, KY",Blue Grass,1538965560,PDT4779,KPHL,"Philadelphia, PA",Philadelphia Intl
+KPHL,0,1538961194,E190,KJAX,"Jacksonville, FL",Jacksonville Intl,1538967360,AAL1793,KPHL,"Philadelphia, PA",Philadelphia Intl
+KPHL,0,1538961134,A321,KSAN,"San Diego, CA",San Diego Intl,1538979420,AAL2066,KPHL,"Philadelphia, PA",Philadelphia Intl
+KPHL,0,1538961063,E145,KUNV,"State College, PA",University Park Airport,1538962560,PDT4948,KPHL,"Philadelphia, PA",Philadelphia Intl
+KPHL,0,1538960940,A321,KDEN,"Denver, CO",Denver Intl,1538974200,FFT9210,KPHL,"Philadelphia, PA",Philadelphia Intl
+KPHL,0,1538960847,E190,KMCI,"Kansas City, MO",Kansas City Intl,1538969880,AAL1889,KPHL,"Philadelphia, PA",Philadelphia Intl
+KPHL,0,1538960762,B738,KTPA,"Tampa, FL",Tampa Intl,1538968560,AAL1208,KPHL,"Philadelphia, PA",Philadelphia Intl
+KPHL,0,1538960700,CRJ7,KSTL,"St Louis, MO",St Louis Lambert Intl,1538967420,JIA5211,KPHL,"Philadelphia, PA",Philadelphia Intl
+KPHX,0,1538961660,A319,KDEN,"Denver, CO",Denver Intl,1538966520,UAL1044,KPHX,"Phoenix, AZ",Phoenix Sky Harbor Intl
+KPHX,0,1538961625,A321,KSEA,"Seattle, WA",Seattle-Tacoma Intl,1538971380,AAL578,KPHX,"Phoenix, AZ",Phoenix Sky Harbor Intl
+KPHX,0,1538961550,E75L,KLAX,"Los Angeles, CA",Los Angeles Intl,1538965320,SKW5968,KPHX,"Phoenix, AZ",Phoenix Sky Harbor Intl
+KPHX,0,1538961480,B737,KMDW,"Chicago, IL",Chicago Midway Intl,1538971500,SWA2007,KPHX,"Phoenix, AZ",Phoenix Sky Harbor Intl
+KPHX,0,1538961427,B737,KHOU,"Houston, TX",William P Hobby,1538969100,SWA5711,KPHX,"Phoenix, AZ",Phoenix Sky Harbor Intl
+KPHX,0,1538961313,A320,KLAS,"Las Vegas, NV",McCarran Intl,1538964000,AAL425,KPHX,"Phoenix, AZ",Phoenix Sky Harbor Intl
+KPHX,0,1538961235,B737,KLAX,"Los Angeles, CA",Los Angeles Intl,1538964900,SWA5391,KPHX,"Phoenix, AZ",Phoenix Sky Harbor Intl
+KPHX,0,1538961029,CRJ9,KONT,"Ontario, CA",Ontario Intl,1538963820,ASH5845,KPHX,"Phoenix, AZ",Phoenix Sky Harbor Intl
+KPHX,0,1538960894,B737,KAUS,"Austin, TX",Austin-Bergstrom Intl,1538967420,SWA3774,KPHX,"Phoenix, AZ",Phoenix Sky Harbor Intl
+KPHX,0,1538960711,C750,KSFO,"San Francisco, CA",San Francisco Intl,1538965772,XOJ717,KPHX,"Phoenix, AZ",Phoenix Sky Harbor Intl
+KPHX,0,1538960566,B737,KSFO,"San Francisco, CA",San Francisco Intl,1538966400,SWA3657,KPHX,"Phoenix, AZ",Phoenix Sky Harbor Intl
+KPHX,0,1538960470,A321,KSAN,"San Diego, CA",San Diego Intl,1538963520,AAL480,KPHX,"Phoenix, AZ",Phoenix Sky Harbor Intl
+KPHX,0,1538960392,B737,KONT,"Ontario, CA",Ontario Intl,1538962800,SWA5210,KPHX,"Phoenix, AZ",Phoenix Sky Harbor Intl
+KPHX,0,1538960234,B737,KSAN,"San Diego, CA",San Diego Intl,1538963280,SWA4985,KPHX,"Phoenix, AZ",Phoenix Sky Harbor Intl
+KPHX,0,1538960125,B737,CYYC,"Calgary, Alberta",Calgary Int'l,1538970780,WJA1641,KPHX,"Phoenix, AZ",Phoenix Sky Harbor Intl
+kPDX,0,1538961720,B737,KSFO,"San Francisco, CA",San Francisco Intl,1538965980,SWA4230,KPDX,"Portland, OR",Portland Intl
+kPDX,0,1538961679,B737,KORD,"Chicago, IL",Chicago O'Hare Intl,1538974620,ASA634,KPDX,"Portland, OR",Portland Intl
+kPDX,0,1538961363,PC12,KPDT,"Pendleton, OR",Eastern Oregon Rgnl,1538964360,BTQ356,KPDX,"Portland, OR",Portland Intl
+kPDX,0,1538961322,B739,KDEN,"Denver, CO",Denver Intl,1538968740,UAL423,KPDX,"Portland, OR",Portland Intl
+kPDX,0,1538960760,DH8D,KRDM,"Redmond, OR",Roberts Field,1538962080,QXE2085,KPDX,"Portland, OR",Portland Intl
+kPDX,0,1538960569,DH8D,KEUG,"Eugene, OR",Mahlon Sweet Field,1538962189,QXE2237,KPDX,"Portland, OR",Portland Intl
+kPDX,0,1538960531,E545,CYVR,"Vancouver, British Columbia",Vancouver Int'l,1538963171,LXJ421,KPDX,"Portland, OR",Portland Intl
+kPDX,0,1538960040,B763,KGEG,"Spokane, WA",Spokane Intl,1538962740,UPS988,KPDX,"Portland, OR",Portland Intl
+kPDX,0,1538960028,E75L,KSMF,"Sacramento, CA",Sacramento Intl,1538963700,QXE2645,KPDX,"Portland, OR",Portland Intl
+kPDX,0,1538959915,B739,KLAX,"Los Angeles, CA",Los Angeles Intl,1538965740,ASA540,KPDX,"Portland, OR",Portland Intl
+kPDX,0,1538959672,E75L,KLAX,"Los Angeles, CA",Los Angeles Intl,1538965920,CPZ6032,KPDX,"Portland, OR",Portland Intl
+kPDX,0,1538959573,H25B,KIDA,"Idaho Falls, ID",Idaho Falls Rgnl,1538963818,JTL90,KPDX,"Portland, OR",Portland Intl
+kPDX,1538961679,1538959440,DH8D,KSEA,"Seattle, WA",Seattle-Tacoma Intl,1538961840,QXE2256,KPDX,"Portland, OR",Portland Intl
+kPDX,0,1538959249,E75L,KONT,"Ontario, CA",Ontario Intl,1538965380,QXE2809,KPDX,"Portland, OR",Portland Intl
+kPDX,0,1538958588,A320,KSAN,"San Diego, CA",San Diego Intl,1538965020,ASA1184,KPDX,"Portland, OR",Portland Intl
+KSAN,0,1538961272,B737,KSFO,"San Francisco, CA",San Francisco Intl,1538965200,SWA5250,KSAN,"San Diego, CA",San Diego Intl
+KSAN,0,1538960490,B737,KMDW,"Chicago, IL",Chicago Midway Intl,1538972700,SWA5063,KSAN,"San Diego, CA",San Diego Intl
+KSAN,0,1538960330,B737,KSJC,"San Jose, CA",San Jose Int'l,1538964480,SWA4835,KSAN,"San Diego, CA",San Diego Intl
+KSAN,0,1538960110,A21N,KSFO,"San Francisco, CA",San Francisco Intl,1538963820,ASA1963,KSAN,"San Diego, CA",San Diego Intl
+KSAN,0,1538959931,A321,KDFW,"Dallas-Fort Worth, TX",Dallas-Fort Worth Intl,1538968680,AAL1624,KSAN,"San Diego, CA",San Diego Intl
+KSAN,0,1538959875,B350,KFAT,"Fresno, CA",Fresno Yosemite Intl,1538964540,N350FP,KSAN,"San Diego, CA",San Diego Intl
+KSAN,0,1538959802,E75L,KGEG,"Spokane, WA",Spokane Intl,1538970120,SKW3462,KSAN,"San Diego, CA",San Diego Intl
+KSAN,0,1538959130,B739,KSEA,"Seattle, WA",Seattle-Tacoma Intl,1538968920,ASA225,KSAN,"San Diego, CA",San Diego Intl
+KSAN,0,1538959007,B738,KSEA,"Seattle, WA",Seattle-Tacoma Intl,1538968860,SWA3804,KSAN,"San Diego, CA",San Diego Intl
+KSAN,0,1538958834,E75L,KSMF,"Sacramento, CA",Sacramento Intl,1538963580,SKW3344,KSAN,"San Diego, CA",San Diego Intl
+KSAN,0,1538958720,B737,KOAK,"Oakland, CA",Metropolitan Oakland Intl,1538963040,SWA5493,KSAN,"San Diego, CA",San Diego Intl
+KSAN,0,1538958573,E75L,KMCI,"Kansas City, MO",Kansas City Intl,1538968440,SKW3350,KSAN,"San Diego, CA",San Diego Intl
+KSAN,0,1538958386,BE40,KFFZ,"Mesa, AZ",Falcon Fld,1538961975,JTL602,KSAN,"San Diego, CA",San Diego Intl
+KSAN,1538959529,1538958050,E75S,KLAX,"Los Angeles, CA",Los Angeles Intl,1538959529,CPZ5811,KSAN,"San Diego, CA",San Diego Intl
+KSAN,1538961269,1538957786,B737,KPHX,"Phoenix, AZ",Phoenix Sky Harbor Intl,1538961269,SWA2564,KSAN,"San Diego, CA",San Diego Intl
+KSFO,0,1538961747,A319,KBUR,"Burbank, CA",Bob Hope,1538964660,UAL2361,KSFO,"San Francisco, CA",San Francisco Intl
+KSFO,0,1538961736,CRJ2,KRDM,"Redmond, OR",Roberts Field,1538966040,SKW5528,KSFO,"San Francisco, CA",San Francisco Intl
+KSFO,0,1538961568,A320,KPDX,"Portland, OR",Portland Intl,1538966880,UAL2370,KSFO,"San Francisco, CA",San Francisco Intl
+KSFO,0,1538961547,E75L,KSNA,"Santa Ana, CA",John Wayne,1538964840,QXE2161,KSFO,"San Francisco, CA",San Francisco Intl
+KSFO,0,1538961384,A320,KLAS,"Las Vegas, NV",McCarran Intl,1538965500,ASA1910,KSFO,"San Francisco, CA",San Francisco Intl
+KSFO,0,1538961374,A319,KPDX,"Portland, OR",Portland Intl,1538966880,ASA1387,KSFO,"San Francisco, CA",San Francisco Intl
+KSFO,0,1538961180,C560,KVNY,"Van Nuys, CA",Van Nuys,1538964240,LAK557,KSFO,"San Francisco, CA",San Francisco Intl
+KSFO,0,1538961035,B739,KLAS,"Las Vegas, NV",McCarran Intl,1538965380,UAL1544,KSFO,"San Francisco, CA",San Francisco Intl
+KSFO,0,1538961008,E75L,KOMA,"Omaha, NE",Eppley Airfield,1538972160,SKW5216,KSFO,"San Francisco, CA",San Francisco Intl
+KSFO,0,1538960893,A320,KLGB,"Long Beach, CA",Daugherty Field,1538964420,JBU1635,KSFO,"San Francisco, CA",San Francisco Intl
+KSFO,0,1538960891,B738,KSTL,"St Louis, MO",St Louis Lambert Intl,1538973180,UAL1444,KSFO,"San Francisco, CA",San Francisco Intl
+KSFO,0,1538960837,B789,EGLL,"London, England",London Heathrow,1538994000,VIR20,KSFO,"San Francisco, CA",San Francisco Intl
+KSFO,0,1538960776,E75L,KLAX,"Los Angeles, CA",Los Angeles Intl,1538964600,CPZ6045,KSFO,"San Francisco, CA",San Francisco Intl
+KSFO,0,1538960746,B752,KEWR,"Newark, NJ",Newark Liberty Intl,1538978640,UAL213,KSFO,"San Francisco, CA",San Francisco Intl
+KSEA,0,1538961749,B737,PANC,"Anchorage, AK",Anchorage Intl,1538974769,ASA187,KSEA,"Seattle, WA",Seattle-Tacoma Intl
+KSEA,0,1538961655,A321,KLAX,"Los Angeles, CA",Los Angeles Intl,1538967840,ASA1078,KSEA,"Seattle, WA",Seattle-Tacoma Intl
+KSEA,0,1538961540,A319,KSFO,"San Francisco, CA",San Francisco Intl,1538966820,UAL214,KSEA,"Seattle, WA",Seattle-Tacoma Intl
+KSEA,0,1538961424,CRJ9,CYVR,"Vancouver, British Columbia",Vancouver Int'l,1538962730,JZA8098,KSEA,"Seattle, WA",Seattle-Tacoma Intl
+KSEA,0,1538961300,B738,KPHX,"Phoenix, AZ",Phoenix Sky Harbor Intl,1538968980,SWA3798,KSEA,"Seattle, WA",Seattle-Tacoma Intl
+KSEA,0,1538961296,B737,KSTL,"St Louis, MO",St Louis Lambert Intl,1538973420,ASA712,KSEA,"Seattle, WA",Seattle-Tacoma Intl
+KSEA,0,1538961182,B763,EHAM,Amsterdam,Amsterdam Schiphol,1538994240,DAL144,KSEA,"Seattle, WA",Seattle-Tacoma Intl
+KSEA,0,1538961070,B77W,OMDB,Dubai,Dubai Int'l,1539012120,UAE230,KSEA,"Seattle, WA",Seattle-Tacoma Intl
+KSEA,0,1538961005,DH8D,KPSC,"Pasco, WA",Tri-Cities,1538963040,QXE2360,KSEA,"Seattle, WA",Seattle-Tacoma Intl
+KSEA,0,1538960850,DH8D,KBLI,"Bellingham, WA",Bellingham Intl,1538962593,QXE2490,KSEA,"Seattle, WA",Seattle-Tacoma Intl
+KSEA,0,1538960810,B737,PHKO,"Kailua/Kona, HI",Ellison Onizuka Kona Intl At Keahole,1538979720,ASA875,KSEA,"Seattle, WA",Seattle-Tacoma Intl
+KSEA,0,1538960700,B738,PHOG,"Kahului, HI",Kahului,1538980140,ASA831,KSEA,"Seattle, WA",Seattle-Tacoma Intl
+KSEA,0,1538960620,B738,PHLI,"Lihue, HI",Lihue,1538979720,ASA839,KSEA,"Seattle, WA",Seattle-Tacoma Intl
+KSEA,0,1538960541,DH8D,KMSO,"Missoula, MT",Missoula Intl,1538964180,QXE2394,KSEA,"Seattle, WA",Seattle-Tacoma Intl
+KSEA,0,1538960460,B738,KGEG,"Spokane, WA",Spokane Intl,1538962440,ASA118,KSEA,"Seattle, WA",Seattle-Tacoma Intl
+KTPA,0,1538961308,B763,KBWI,"Baltimore, MD",Baltimore/Washington Intl,1538968380,GTI3533,KTPA,"Tampa, FL",Tampa Intl
+KTPA,0,1538960400,B737,KBNA,"Nashville, TN",Nashville Intl,1538964900,SWA4862,KTPA,"Tampa, FL",Tampa Intl
+KTPA,0,1538959911,A320,KBOS,"Boston, MA",Boston Logan Intl,1538968980,NKS798,KTPA,"Tampa, FL",Tampa Intl
+KTPA,0,1538959824,A320,KBOS,"Boston, MA",Boston Logan Intl,1538968680,DAL1660,KTPA,"Tampa, FL",Tampa Intl
+KTPA,0,1538958930,B738,KSTL,"St Louis, MO",St Louis Lambert Intl,1538965560,SWA1752,KTPA,"Tampa, FL",Tampa Intl
+KTPA,0,1538958822,A320,KATL,"Atlanta, GA",Hartsfield-Jackson Intl,1538962920,NKS942,KTPA,"Tampa, FL",Tampa Intl
+KTPA,0,1538958715,A321,CYYZ,"Toronto, Ontario",Toronto Pearson Int'l,1538966280,ROU1659,KTPA,"Tampa, FL",Tampa Intl
+KTPA,1538961698,1538957950,B737,KATL,"Atlanta, GA",Hartsfield-Jackson Intl,1538961698,SWA3727,KTPA,"Tampa, FL",Tampa Intl
+KTPA,0,1538957760,A320,KCLT,"Charlotte, NC",Charlotte/Douglas Intl,1538962260,AAL1748,KTPA,"Tampa, FL",Tampa Intl
+KTPA,1538960315,1538957754,B737,KFLL,"Fort Lauderdale, FL",Fort Lauderdale Intl,1538960315,SWA4655,KTPA,"Tampa, FL",Tampa Intl
+KTPA,1538961536,1538957640,B752,KATL,"Atlanta, GA",Hartsfield-Jackson Intl,1538961536,DAL2130,KTPA,"Tampa, FL",Tampa Intl
+KTPA,0,1538957457,A333,LSZH,Zurich,Zurich (Kloten),1538988840,EDW5,KTPA,"Tampa, FL",Tampa Intl
+KTPA,0,1538957312,B738,KPVD,"Providence, RI",Green State,1538965920,SWA5140,KTPA,"Tampa, FL",Tampa Intl
+KTPA,0,1538957218,B739,KIAH,"Houston, TX",Houston Bush Int'ctl,1538963460,UAL1234,KTPA,"Tampa, FL",Tampa Intl
+KTPA,0,1538956800,B738,KIAD,"Washington, DC",Washington Dulles Intl,1538963100,UAL352,KTPA,"Tampa, FL",Tampa Intl
+KDCA,0,1538961606,E145,KCLE,"Cleveland, OH",Cleveland-Hopkins Intl,1538965020,ASQ3982,KDCA,"Washington, DC",Reagan National
+KDCA,0,1538961414,E75L,KORD,"Chicago, IL",Chicago O'Hare Intl,1538966820,SKW5768,KDCA,"Washington, DC",Reagan National
+KDCA,0,1538961360,B738,KORD,"Chicago, IL",Chicago O'Hare Intl,1538966640,AAL2499,KDCA,"Washington, DC",Reagan National
+KDCA,0,1538961224,B737,KATL,"Atlanta, GA",Hartsfield-Jackson Intl,1538966100,SWA3130,KDCA,"Washington, DC",Reagan National
+KDCA,0,1538961060,E190,KBOS,"Boston, MA",Boston Logan Intl,1538964480,AAL2150,KDCA,"Washington, DC",Reagan National
+KDCA,0,1538961007,A319,KTPA,"Tampa, FL",Tampa Intl,1538967907,AAL1745,KDCA,"Washington, DC",Reagan National
+KDCA,0,1538960627,E75L,KEWR,"Newark, NJ",Newark Liberty Intl,1538963100,RPA3524,KDCA,"Washington, DC",Reagan National
+KDCA,0,1538960045,E190,KFLL,"Fort Lauderdale, FL",Fort Lauderdale Intl,1538967600,JBU1479,KDCA,"Washington, DC",Reagan National
+KDCA,0,1538959846,CRJ2,KTYS,"Knoxville, TN",Mc Ghee Tyson,1538963520,JIA5484,KDCA,"Washington, DC",Reagan National
+KDCA,0,1538959709,CRJ2,CYOW,"Ottawa, Ontario",Ottawa Macdonald-Cartier Int'l,1538963460,JZA8453,KDCA,"Washington, DC",Reagan National
+KDCA,0,1538959643,E75S,KHSV,"Huntsville, AL",Huntsville Intl,1538965020,RPA4621,KDCA,"Washington, DC",Reagan National
+KDCA,0,1538959593,CRJ7,KSAV,"Savannah, GA",Savannah/Hilton Head Intl,1538964480,JIA5599,KDCA,"Washington, DC",Reagan National
+KDCA,0,1538959508,A321,KATL,"Atlanta, GA",Hartsfield-Jackson Intl,1538964180,DAL1224,KDCA,"Washington, DC",Reagan National
+KDCA,0,1538959419,E75S,KPIT,"Pittsburgh, PA",Pittsburgh Intl,1538961600,RPA4539,KDCA,"Washington, DC",Reagan National
+KDCA,0,1538959200,A319,KBOS,"Boston, MA",Boston Logan Intl,1538962920,AAL2144,KDCA,"Washington, DC",Reagan National

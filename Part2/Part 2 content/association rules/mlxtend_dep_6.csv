@@ -1,0 +1,12 @@
+       support                                         itemsets  length
+5978  0.002070  (E, KPHX, False, Southwest Airlines, Sat, B737)       6
+5980  0.002070   (E, KLAS, True, Southwest Airlines, Sat, B737)       6
+5982  0.002070          (Horizon Air, True, KPDX, DH8D, C, Fri)       6
+5981  0.002329   (E, KMDW, True, Southwest Airlines, Sat, B737)       6
+5983  0.002587        (D, True, E75L, Mesa Airlines, KIAH, Fri)       6
+5985  0.002587        (D, True, E75L, Sat, Mesa Airlines, KIAH)       6
+5984  0.002846        (D, Mon, True, E75L, Mesa Airlines, KIAH)       6
+5987  0.002846        (Thu, D, True, E75L, Mesa Airlines, KIAH)       6
+5977  0.003105  (E, KBWI, False, Southwest Airlines, Sat, B737)       6
+5986  0.003105        (Sun, D, True, E75L, Mesa Airlines, KIAH)       6
+5979  0.004140   (E, KBWI, True, Southwest Airlines, Sat, B737)       6
